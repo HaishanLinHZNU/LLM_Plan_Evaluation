@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 
-def create_Result_json_file(retult_directory_path = "D:/Plans_Evaluation/Result_of_Plan_Evaluation/", part=''):
+def create_Result_json_file(retult_directory_path = "./Result_of_Plan_Evaluation/", part=''):
     # Create a timestamped file name
     timestamp = datetime.now().strftime("%y-%m-%d %H-%M-%S")
     if part == '':

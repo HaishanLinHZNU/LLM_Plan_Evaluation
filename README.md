@@ -64,6 +64,8 @@ The core innovation lies in a **self-optimizing scoring framework generation mec
 
 ## Environment Setup
 
+The archived statistical analysis runs with Python 3.10 or newer using only the standard library. Live evaluation and optimization require your own API credentials, Assistant and Vector Store IDs, and the input JSON files referenced by each script. These account-specific configurations and runtime input files are not bundled. The optimization scripts also use the Windows `winsound` module.
+
 ### Dependencies
 ```bash
 pip install openai pandas numpy openpyxl tqdm
@@ -78,28 +80,43 @@ api_base = "https://api.openai.com/v1"
 ```
 
 ### Path Configuration
-Modify the following global variable paths according to your actual file storage locations:
+Run commands from the repository root. Configure paths relative to that directory:
 - `indicator_data_path`: JSON mapping of indicators to counties.
 - `vector_store_data_path`: JSON mapping of county names to Vector Store IDs.
 - `result_directory_path`: Output directory for results.
 
+```python
+indicator_data_path = "./Parameter/__xlsx2json_output_fall_data_part_1__.json"
+vector_store_data_path = "./Parameter/__File_info_full_data__.json"
+result_directory_path = "./Result_of_Plan_Evaluation/"
+```
+
+Provide the input files at these paths, or adjust the paths to their actual locations.
+
 ## Usage
 
+
 ### 1. Run Basic Evaluation
-Execute the main pipeline script to begin evaluating all counties and indicators:
-```bash
-python Call_assistant_finial_part_1.py
+PowerShell, from the repository root:
+```powershell
+$env:PYTHONPATH = "."
+python ./Call_assistant_api_part_1-4_basic_prompt/Call_assistant_basic_part_1.py
+```
+
+For the optimized prompt:
+```powershell
+python ./Call_assistant_api_part_1-4_finial_prompt/Call_assistant_finial_part_1.py
 ```
 
 ### 2. Parse Existing Results Only
 If you already have a `result_start_at_xxx.json` file, call the parsing function at the bottom of `Resolve_the_result_of_Plan_Evaluation.py`:
 ```python
-Change_Plan_Evaluation_from_json_to_xlsx("path/to/result.json", "timestamp")
+Change_Plan_Evaluation_from_json_to_xlsx("./Result_of_Plan_Evaluation/result_start_at_TIMESTAMP.json", "TIMESTAMP")
 ```
 
 ### 3. Launch Automatic Scoring Framework Optimization
 ```bash
-python Optimizing_scoring_framework_with_generating_tendency.py
+python ./Optimizing_scoring_framework_with_generating_tendency.py
 ```
 The script will automatically identify indicators with accuracy below a threshold (e.g., 40%) and begin iterative optimization.
 
@@ -115,9 +132,21 @@ After evaluation, the following files will be generated in the `Result_of_Plan_E
 - `Part_1_result_start_at_24-11-05 12-55-05.json`: Raw evaluation data.
 - `Part_1_result_start_at_24-11-05 12-55-05_resolved.xlsx`: Visualized report containing `Evaluation`, `Confusion Matrix`, and `Indicators` sheets.
 
+## Archived statistical analysis
+
+The four `*_resolved.json` files, `evaluation_configurations.json`, and `optimization_history.json` are included in this repository. See `DATA_DICTIONARY.md` for fields, archive coverage, missing values, and the validation subset. The 25 original planning PDFs are supplied separately in `Planning_documents_25_originals.zip`.
+
+Reference labels, plan assignments, validation predictions, analysis code, and CSV tables are in `./statistical_materials/`. The script uses the Python standard library and makes no model API calls:
+
+```bash
+python ./statistical_materials/analysis/analyze_archived_results.py
+```
+
+Three valid archived scores absent from the shared resolved JSON are documented in `./statistical_materials/configs/prediction_source_exceptions.csv`.
+
 ## Notes
 
 1. **Rate Limits**: The code includes `random_lag()` functions to avoid OpenAI API rate limits. If you still encounter 429 errors, consider increasing the delay parameters.
 2. **Vector Store Costs**: OpenAI charges for Vector Store storage on a daily basis. Remember to clean up unused Vector Stores after evaluation is complete.
-3. **Model Selection**: The default model is `gpt-4o-mini` to balance cost and performance. For higher precision, you may change it to `gpt-4o`.
+3. **Model Selection**: The four evaluation configurations are listed in `evaluation_configurations.json`. Set the existing `Plan_evaluation` call to `Plan_evaluation(model="gpt-4o", temperature=0.0)` or `Plan_evaluation(model="gpt-4o-mini", temperature=0.0)` for the selected model. Use the basic-prompt or final-prompt runner directory specified for that condition. Released generation calls enforce temperature 0 and File Search calls enforce a retrieval cap of 20; fewer chunks may be returned. The recorded archive times are run starts taken from the original filenames.
 

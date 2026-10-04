@@ -735,7 +735,7 @@ def printing_bias_info(result_file_path, timestamp):
 
 
 # Function to calculate and save all metrics including Confusion Matrix
-def Change_Plan_Evaluation_from_json_to_xlsx(result_file_path, timestamp, result_director_path = "D:/Plans_Evaluation/Result_of_Plan_Evaluation/"):
+def Change_Plan_Evaluation_from_json_to_xlsx(result_file_path, timestamp, result_director_path = "./Result_of_Plan_Evaluation/"):
     """
     Orchestrates the entire process of loading data, calculating metrics,
     saving results to JSON and Excel files.
@@ -776,4 +776,4 @@ def Change_Plan_Evaluation_from_json_to_xlsx(result_file_path, timestamp, result
 
 
 # Example usage:
-# Change_Plan_Evaluation_from_json_to_xlsx(result_file_path=f"D:/Plans_Evaluation/Result_of_Plan_Evaluation/result_start_at_25-02-25 20-15-26.json", timestamp="25-02-25 20-15-26")
+# Change_Plan_Evaluation_from_json_to_xlsx(result_file_path=f"./Result_of_Plan_Evaluation/result_start_at_25-02-25 20-15-26.json", timestamp="25-02-25 20-15-26")

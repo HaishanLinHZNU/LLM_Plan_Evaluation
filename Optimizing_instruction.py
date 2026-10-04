@@ -11,19 +11,19 @@ from Call_assistant_api_change_max_num_result import Plan_evaluation
 
 
 api_key = ""
-api_base = ''
+api_base = "https://api.openai.com/v1"
 
 # file path
 indicator_data_path = "Indicators/test.json"
-vector_store_data_path = "D:/Plans_Evaluation/NE_Plans/Plans picked according to completeness (county)/Files_info.json"
+vector_store_data_path = "./NE_Plans/Plans picked according to completeness (county)/Files_info.json"
 
-result_directory_path_for_plan_evaluation = "D:/Plans_Evaluation/Result_of_Plan_Evaluation/"
-result_directory_path_for_optimizing = "D:/Plans_Evaluation/Result_of_Optimizing_Prompt/"
-generated_instruction_directory_path = "D:/Plans_Evaluation/Result_of_Optimizing_Prompt/generated_instructions/"
+result_directory_path_for_plan_evaluation = "./Result_of_Plan_Evaluation/"
+result_directory_path_for_optimizing = "./Result_of_Optimizing_Prompt/"
+generated_instruction_directory_path = "./Result_of_Optimizing_Prompt/generated_instructions/"
 
-history_prompt_file_path = "D:/Plans_Evaluation/Result_of_Optimizing_Prompt/history_instructions.json"
-history_generated_instruction_path = "D:/Plans_Evaluation/Result_of_Optimizing_Prompt/history_generated_instructions.json"
-history_meta_prompt_path = "D:/Plans_Evaluation/Result_of_Optimizing_Prompt/history_meta_prompt.json"
+history_prompt_file_path = "./Result_of_Optimizing_Prompt/history_instructions.json"
+history_generated_instruction_path = "./Result_of_Optimizing_Prompt/history_generated_instructions.json"
+history_meta_prompt_path = "./Result_of_Optimizing_Prompt/history_meta_prompt.json"
 
 optimizer_assistant_id_list = []
 scorer_assistant_id_list = []
@@ -181,6 +181,8 @@ def run_assistant(thread_id, assistant_id):
             run = client.beta.threads.runs.create(
                 thread_id=thread_id,
                 assistant_id=assistant_id,
+                temperature=0.0,
+                tools=[{'type': 'file_search', 'file_search': {'max_num_results': 20}}],
             )
             print(f"<run_assistant> [Complete]")
             return run
@@ -310,7 +312,7 @@ def get_final_suggestion_for_improving_func_prompt(result_list):
     print(f'<get_final_suggestion> Finishing prompt creation')
     # 发起请求
     miss = False
-    assistant_id = 'asst_KhykDH35nuyH8nyljnva3KG1'
+    assistant_id = ''
     thread = create_thread()
 
     # 调用接口
@@ -559,7 +561,7 @@ def updating_assistant_temperature(assistant_id, temperature):
             random_lag()
             assistant = client.beta.assistants.update(
                 assistant_id=assistant_id,
-                temperature=temperature
+                temperature=0.0
             )
             print('<Assistant update> Assistant update instruction completed')
             return assistant

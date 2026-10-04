@@ -10,21 +10,44 @@ from Writing_result import add_data, save_result_to_json, create_Result_json_fil
 from Get_vector_store_id import get_vector_store_id
 from Resolve_the_result_of_Plan_Evaluation import Change_Plan_Evaluation_from_json_to_xlsx, printing_bias_info
 
+# 设置API密钥和代理地址
 api_key = ""
 api_base = "https://api.openai.com/v1"
+#api_base = 'https://openai.majikarunekochan.top/v1'  # 如果你使用代理
+
+# indicator_data_path = r"./Indicators/xlsx2json_output_3_fall_data.json"
+indicator_data_path = r"./Indicators/xlsx2json_output_3.json"
+# indicator_data_path = r"./Parameter/__xlsx2json_output_fall_data__.json"
+vector_store_data_path = r"./NE_Plans/Plans picked according to completeness (county)/Files_info.json"
+# vector_store_data_path = r"./Parameter/__File_info_full_data__.json"
+indicator_generated_info_path = r"./Indicators/indicators_with_generating_info_with_scoring_framework_cleaned_file.json"
+# indicator_generated_info_path = r"./Parameter/__indicators_with_Scoring_Framework__.json"
+
+result_directory_path = "./Result_of_Plan_Evaluation/"
+
 
 thread_prompt_default_v2 = "You are an expert Comprehensive Development Plan analyst. Use you knowledge base, which is a County Comprehensive Development Plan, evaluate the provided Plan against the given indicator according to the Scoring Criteria.\nTask: Evaluate the provided County Comprehensive Development Plan against the given indicator.\nScoring Criteria: Assign a score from 0 to 2 for the indicator based on the following definitions: 0 - Does Not Match: The plan does not address or mention the indicator. 1 - Basically Matches: The plan mentions the indicator but lacks detail, depth, or only tangentially addresses it. 2 - Totally Matches: The plan thoroughly addresses the indicator with detailed information and in-depth analysis.\nExpected Response: Provide a single score (0, 1, or 2) based on the criteria above. No additional text is needed."
 thread_prompt_default_v3 = "Task: Evaluate the provided County Comprehensive Development Plan against the given indicator. \n\nScoring Criteria: \n0 - Does Not Match (0 points) \nThe plan does not address or mention the indicator at all. No effort is made to incorporate or consider the indicator. Shows no understanding of the indicator's relevance. \n\n1 - Partially Matches (1 point) \nThe plan briefly mentions the indicator but lacks depth or specificity. The mention might be tangential or incomplete, not fully aligned with the objectives. The explanation is minimal and may not seem practical or well-supported. Feasibility and integration with the overall plan are weak or unclear. \n\n2 - Fully Matches (2 points) \nThe plan thoroughly addresses the indicator with detailed, specific content. Provides a clear explanation of how the indicator will be implemented. The approach is realistic, well-supported by evidence, and feasible. Demonstrates strategic alignment with the plan's goals, showing how the indicator plays a critical role in its success. \n\nInstructions for Scoring: \nBe critical and cautious when awarding 2 points. Only give a score of 2 if all conditions are clearly met (thorough explanation, high feasibility, strategic integration). If the plan addresses the indicator but lacks depth, clarity, or feasibility, lean towards a score of 1. If the indicator is not addressed or its relevance is not demonstrated, assign a score of 0. \n\nExpected Response: \nProvide a single score (0, 1, or 2) based on the criteria above, and the reason or factual base of it. "
 structural_response_instruction = "\n\nResponse Format: \n### Score: <here to put the score (only number range in 0, 1, and 2)>\n\n### Reason:\n1. ...\n2. ...\n3. ...\n..."
-indicator_data_path = r"./Indicators/xlsx2json_output_test_sorted_by_max_num_results.json"
-vector_store_data_path = r"./NE_Plans/Plans picked according to completeness (county)/Files_info.json"
-indicator_generated_info_path = r"./Indicators/indicators_with_generating_info_with_scoring_framework_cleaned_file.json"
-result_directory_path = "./Result_of_Plan_Evaluation/"
+#instruction = "Task: Conduct a comprehensive evaluation of the County Comprehensive Development Plan regarding a specified indicator, using an enhanced scoring system that captures nuanced assessments.  \n\nScoring Framework:\n- **0 - Not Addressed (0 points):** The plan fails to mention or incorporate the indicator, demonstrating no acknowledgement of its significance. The indicator is mentioned but superficially, with limited context and unsupported relevance.  \n- **1 - Discussed with Insufficient Depth (1 point):** The plan references the indicator without integrating it meaningfully into its objectives. Lack of actionable strategies or evidence of impact is evident. The indicator is integrated with some strategic relevance and partial evidence but lacks full feasibility or comprehensive linkage to goals.  \n- **2 - Thoroughly Integrated (2 points):** The indicator is meticulously woven into the plan with established evidence, reflective of strategic relevance and clear feasibility in alignment with broader \nConclude evaluations with well-documented justifications for scores, fostering clarity and transparency.\n\nResponse Format:\n### Score: <here to put the score (only number range in 0, 1, and 2)>\n\n### Reason:\n1. ...\n2. ...\n3. ...\n..."
+
 default_instruction = "Task: Conduct a comprehensive evaluation of the County Comprehensive Development Plan regarding a specified indicator, using an enhanced scoring system that captures nuanced assessments.  \n\nScoring Framework:  \n- **0 - Not Addressed (0 points):** The plan fails to mention or incorporate the indicator, demonstrating no acknowledgement of its significance. The indicator is mentioned but superficially, with limited context and unsupported relevance.  \n- **1 - Discussed with Insufficient Depth (1 point):** The plan references the indicator without integrating it meaningfully into its objectives. Lack of actionable strategies or evidence of impact is evident. The indicator is integrated with some strategic relevance and partial evidence but lacks full feasibility or comprehensive linkage to goals.  \n- **2 - Thoroughly Integrated (2 points):** The indicator is meticulously woven into the plan with established evidence, reflective of strategic relevance and clear feasibility in alignment with broader objectives.  \n\nEvaluation Process:  \n- Utilize a detailed and structured rubric to assess the plan's alignment with each scoring level, carefully noting examples and evidence.  \n- Validate the assigned score by comparing plan elements to criteria benchmarks, ensuring thorough and strategic integration for higher scores.  \n- Engage in regular training and calibration workshops to refine scoring accuracy and consistency, reducing errors and variance across evaluations.  \n- Leverage advanced analytical and AI-assisted tools for real-time feedback and pattern recognition, enhancing the precision of assessments.  \n\nConclude evaluations with well-documented justifications for scores, fostering clarity and transparency. Refer back to established feedback channels for resolving any scoring discrepancies or challenges."
+
 __thread_id__ = ''
-__max_num_results__ = 20
 
 client = OpenAI(api_key=api_key, base_url=api_base)
+
+
+
+# Function to read and process the JSON file
+def read_data(filepath, target=""):
+    '''
+    load json data
+    '''
+    with open(filepath, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    print(f"{target} <Reading data> finish reading data from '{filepath}'.")
+    return data
 
 
 
@@ -35,8 +58,10 @@ def random_folat(min_val=0.3,max_val=1.3):
 
 def random_lag(lag_min=1.3, lag_max=2.3):
     # Generate a random delay between 1 and 11 seconds
-    sleep(random_folat(min_val=lag_min, max_val=lag_max))
-
+    if lag_max < 4:
+        sleep(random_folat(min_val=lag_min, max_val=lag_max))
+    else:
+        sleep(random_folat(min_val=lag_max/2, max_val=lag_max))
 
 
 def verify_file_exists(file_path):
@@ -60,7 +85,7 @@ def verify_if_indicator_already_processed(data, county_name, indicator_waiting_f
 
 
 
-def create_assistants(instructions, tools=[], assistant_name="Plans analyzing assistant", model="gpt-4o-mini", vector_store_id=[]):
+def create_assistants(instructions, tools=[], assistant_name="Plans analyzing assistant", model="gpt-3.5-turbo", vector_store_id=[]):
     '''
     return an assistant object
     '''
@@ -89,7 +114,7 @@ def create_assistants(instructions, tools=[], assistant_name="Plans analyzing as
 
 
 # 创建线程
-def create_thread(vector_store_id, target):
+def create_thread(vector_store_id, target=""):
     '''
     create a thread attaching vector store
 
@@ -113,7 +138,7 @@ def create_thread(vector_store_id, target):
 
 
 
-def run_assistant(thread_id, assistant_id, target):
+def run_assistant(thread_id, assistant_id, target=""):
     '''
     create a run using thread id and assistant id
 
@@ -155,7 +180,7 @@ def retrieve_run(thread_id, run_id):
 
 
 
-def list_messages(thread_id, target):
+def list_messages(thread_id, target=""):
     '''
     Get the messages from a thread (not resolved messages)
 
@@ -177,7 +202,7 @@ def list_messages(thread_id, target):
 
 
 
-def list_run_steps_result(thread_id, run_id, target):
+def list_run_steps_result(thread_id, run_id, target=""):
     '''
     Get the middle result from runsteps (not resolved results of file search)
 
@@ -201,7 +226,7 @@ def list_run_steps_result(thread_id, run_id, target):
 
 
 
-def get_file_search(run_steps, target):
+def get_file_search(run_steps, target=""):
     '''
     resolve the results of file search, the references and their score of relevancy
 
@@ -256,7 +281,7 @@ def get_indicator_and_score(messages):
 
 
 # 使用相同的thread_id
-def using_thread(prompt, thread_id, target):
+def using_thread(prompt, thread_id, target=""):
     i=3
     while True:
         try:
@@ -277,7 +302,7 @@ def using_thread(prompt, thread_id, target):
 
 
 
-def create_file(file_path, target):
+def create_file(file_path, target=""):
     '''
     arg: path of file to be uploaded (str)
 
@@ -299,7 +324,7 @@ def create_file(file_path, target):
 
 
 
-def updating_assistant_instruction_and_model(assistant_id, instruction, target, model="gpt-4o-mini", temperature=0.0):
+def updating_assistant_instruction_and_model(assistant_id, instruction, target="", model="gpt-4o-mini", temperature=0.0):
     '''
     to change the instruction used by assistant, according to assistant id and instruction text
 
@@ -330,7 +355,7 @@ def updating_assistant_instruction_and_model(assistant_id, instruction, target, 
 
 
 
-def updating_assistant_vector_store(assistant_id, vector_store_id, target, temperature=0.0, max_num_results=20):
+def updating_assistant_vector_store(assistant_id, vector_store_id, target="", temperature=0.0, max_num_results=20):
     '''
     to change the vector store used by assistant, according to assistant id and vector store id
 
@@ -365,7 +390,7 @@ def updating_assistant_vector_store(assistant_id, vector_store_id, target, tempe
 
 
 
-def updating_assistant_max_num_results_for_file_search(assistant_id, max_num_results, target, temperature=0.0):
+def updating_assistant_max_num_results_for_file_search(assistant_id, max_num_results, target="", temperature=0.0):
     '''
     to change the vector store used by assistant, according to assistant id and vector store id
 
@@ -399,19 +424,7 @@ def updating_assistant_max_num_results_for_file_search(assistant_id, max_num_res
 
 
 
-# Function to read and process the JSON file
-def read_data(filepath, target):
-    '''
-    load json data
-    '''
-    with open(filepath, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    print(f"{target} <Reading data> finish reading data from '{filepath}'.")
-    return data
-
-
-
-def print_result_for_each_indicator(input_text, score, indicator, target):
+def print_result_for_each_indicator(input_text, score, indicator, target=""):
     '''
     Print result of each indicator
     '''
@@ -423,7 +436,7 @@ def print_result_for_each_indicator(input_text, score, indicator, target):
 
 
 
-def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini", timestamp_for_resuming=None):
+def knowledge_retrieve(instruction=default_instruction, model="gpt-4o-mini", timestamp_for_resuming=None, temperature=0.0):
 
     total_count = 0
     processing_no = 1
@@ -431,8 +444,7 @@ def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini"
     assistant_id = "" # default using GPT 4o mini
 
     logging.info(f"Starting knowledge retrieval'")
-    print(
-        f"Starting knowledge retrieval\n>==============================================================================================<")
+    print(f"Starting knowledge retrieval\n>==============================================================================================<")
     print(f"[{processing_no}/{total_count}] <Reading data> Reading data...")
 
     if timestamp_for_resuming == None:
@@ -473,7 +485,9 @@ def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini"
     # 更新 assistant
     updating_assistant_instruction_and_model(assistant_id=assistant_id,
                                              instruction=(instruction + structural_response_instruction),
-                                             target=f"[{processing_no}/{total_count}]", model=model)
+                                             target=f"[{processing_no}/{total_count}]",
+                                             model=model,
+                                             temperature=temperature)
 
     # 循环进行评估处理数据
     for county_name, indicators in tqdm(indicator_data.items(), desc=f"Evaluation"):
@@ -508,7 +522,7 @@ def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini"
                 raise ValueError(f"Vector store ID not found for county: '{county_name}'")
 
             # 根据 Vector Store id 更新 assistant 的向量存储
-            updating_assistant_vector_store(assistant_id=assistant_id, vector_store_id=vector_store_id, target=f"[{processing_no}/{total_count}]")
+            updating_assistant_vector_store(assistant_id=assistant_id, vector_store_id=vector_store_id, target=f"[{processing_no}/{total_count}]", temperature=temperature)
             __max_num_results__ = 20
             logging.info(f"Updated assistant with vector store ID: '{vector_store_id}' for county: '{county_name}'")
             print(f"[{processing_no}/{total_count}] <Processing> Switching successfully. Updated assistant with vector store ID: '{vector_store_id}' for county: '{county_name}'")
@@ -555,7 +569,6 @@ def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini"
         except Exception as e:
             logging.error(f"[{processing_no}/{total_count}] <Processing> Error creating thread for county '{county_name}': {e}")
             print(f"[{processing_no}/{total_count}] <Processing> Error creating thread for county '{county_name}': {e}")
-            continue
         '''</Creating new thread for single County Plan Evaluation>'''
 
         # Processing each indicator
@@ -565,7 +578,6 @@ def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini"
             #random_lag()
             indicator = item['indicator']
             value = item['value']
-            max_num_results = 20
 
             '''<跳过已经完成评估的 indicator>'''
             if verify_if_county_already_processed(result_data, county_name):
@@ -577,16 +589,22 @@ def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini"
             print(f"[{processing_no}/{total_count}] <Processing> Evaluating indicator: '{indicator}' for county: '{county_name}'")
             logging.info(f"Evaluating indicator: '{indicator}' for county: '{county_name}'")
 
-            '''<配置 file search 参数>'''
-            if max_num_results != __max_num_results__:
-                updating_assistant_max_num_results_for_file_search(assistant_id, max_num_results, f"[{processing_no}/{total_count}]")
-                __max_num_results__ = max_num_results
-            '''<配置 file search 参数>'''
 
             '''<Prompt>'''
             interpretation = indicator_generated_info[indicator]['__Interpretation_LLM__']
+
             scoring_framework = indicator_generated_info[indicator]['__Scoring_Framework__']
-            prompt = f"indicator: '{indicator}'. \n\nHere is the interpretation of the indicator: \n{interpretation}\n\n{scoring_framework}\n\nEvaluate the provided 'The {county_name} County Comprehensive Development Plan' against the given indicator. {structural_response_instruction}"
+
+            prompt = f"indicator: '{indicator}'. \n\nHere is the interpretation of the indicator: \n{interpretation}\n\nScoring framework:\n{scoring_framework}\n\nEvaluate the provided 'The {county_name} County Comprehensive Development Plan' against the given indicator. {structural_response_instruction}"  # accuracy: 56
+
+            #prompt = f"indicator: '{indicator}'. \n\nHere is the interpretation of the indicator: \n{interpretation}\n\nHere the detail evaluate criteria:\n{sub_Criteria}\n\n{scoring_framework}\n\nEvaluate the provided 'The {county_name} County Comprehensive Development Plan' against the given indicator. {structural_response_instruction}"  # accuracy: 58
+
+            #prompt = f"indicator: '{indicator}'. {scoring_framework}  Evaluate the provided 'The {county_name} County Comprehensive Development Plan' against the given indicator. {structural_response_instruction}"  # accuracy: 56
+
+            #prompt = f"indicator: '{indicator}'. Evaluate the provided 'The {county_name} County Comprehensive Development Plan' against the given indicator."
+
+            #prompt = f"indicator: '{indicator}'. Evaluate the provided comprehensive development plan against the given indicator."
+
             '''</Prompt>'''
 
             while True:
@@ -691,7 +709,7 @@ def knowledge_retrieve(instruction=thread_prompt_default_v3, model="gpt-4o-mini"
 
 
 # 主函数
-def Plan_evaluation(instruction=default_instruction, model="gpt-4o-mini", timestamp_for_resuming=None):
+def Plan_evaluation(instruction=default_instruction, model="gpt-4o-mini", timestamp_for_resuming=None, temperature=0.0):
     # Setup logging
     logging.basicConfig(
         filename='Plan_evaluation.log',
@@ -699,11 +717,11 @@ def Plan_evaluation(instruction=default_instruction, model="gpt-4o-mini", timest
         format='%(asctime)s - %(levelname)s - %(message)s',
         filemode='a'  # Append to the log file
     )
-    result_file_path, timestamp = knowledge_retrieve(instruction, model, timestamp_for_resuming=timestamp_for_resuming)
+    result_file_path, timestamp = knowledge_retrieve(instruction, model, timestamp_for_resuming=timestamp_for_resuming, temperature=temperature)
     Change_Plan_Evaluation_from_json_to_xlsx(result_file_path, timestamp)
     print("Max_num_results = 20")
     return timestamp
 
-#Plan_evaluation(instruction=default_instruction, model="gpt-4o-mini", timestamp_for_resuming="24-10-19 01-30-40")
+# Plan_evaluation(instruction=default_instruction, model="gpt-4o-mini", timestamp_for_resuming="24-10-19 06-10-46")
 
-Plan_evaluation()
+# Plan_evaluation()

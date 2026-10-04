@@ -2,7 +2,7 @@ import json
 
 # 从 file_info 读取 County—_name, indicator, value
 
-file_path = 'D:/Plans_Evaluation/NE_Plans/Plans picked according to completeness (county)/Files_info.json'
+file_path = './NE_Plans/Plans picked according to completeness (county)/Files_info.json'
 
 # Function to read and process the JSON file
 def read_vector_store_data(file_path):

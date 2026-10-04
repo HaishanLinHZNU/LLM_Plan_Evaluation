@@ -80,28 +80,43 @@ api_base = "https://api.openai.com/v1"
 ```
 
 ### 路径配置
-需要根据您的实际文件存储位置修改以下全局变量路径：
+从仓库根目录执行命令，并将以下路径配置为相对于该目录的路径：
 - `indicator_data_path`：指标与郡的对应关系 JSON。
 - `vector_store_data_path`：郡名与 Vector Store ID 映射 JSON。
 - `result_directory_path`：结果输出目录。
 
+```python
+indicator_data_path = "./Parameter/__xlsx2json_output_fall_data_part_1__.json"
+vector_store_data_path = "./Parameter/__File_info_full_data__.json"
+result_directory_path = "./Result_of_Plan_Evaluation/"
+```
+
+请在对应路径提供输入文件，或按实际文件位置调整路径。
+
 ## 使用方法
 
+
 ### 1. 执行基础评估
-直接运行主流程脚本，开始对所有郡和指标进行评估：
-```bash
-python Call_assistant_finial_part_1.py
+在仓库根目录通过PowerShell执行：
+```powershell
+$env:PYTHONPATH = "."
+python ./Call_assistant_api_part_1-4_basic_prompt/Call_assistant_basic_part_1.py
+```
+
+优化提示词评估：
+```powershell
+python ./Call_assistant_api_part_1-4_finial_prompt/Call_assistant_finial_part_1.py
 ```
 
 ### 2. 仅解析已有结果
 如果你已经有 `result_start_at_xxx.json` 文件，可以在 `Resolve_the_result_of_Plan_Evaluation.py` 底部调用解析函数：
 ```python
-Change_Plan_Evaluation_from_json_to_xlsx("path/to/result.json", "timestamp")
+Change_Plan_Evaluation_from_json_to_xlsx("./Result_of_Plan_Evaluation/result_start_at_TIMESTAMP.json", "TIMESTAMP")
 ```
 
 ### 3. 启动评分框架自动优化
 ```bash
-python Optimizing_scoring_framework_with_generating_tendency.py
+python ./Optimizing_scoring_framework_with_generating_tendency.py
 ```
 脚本将自动识别准确率低于阈值（如 40%）的指标，并开始迭代优化。
 
@@ -117,8 +132,22 @@ Plan_evaluation(timestamp_for_resuming="24-11-05 12-55-05")
 - `Part_1_result_start_at_24-11-05 12-55-05.json`：原始评估数据。
 - `Part_1_result_start_at_24-11-05 12-55-05_resolved.xlsx`：包含 Evaluation、Confusion Matrix、Indicators 三个 Sheet 的可视化报告。
 
+## 归档统计分析
+
+仓库包含四份 `*_resolved.json`、`evaluation_configurations.json` 和 `optimization_history.json`。字段、归档范围、缺失值及验证集说明见 `DATA_DICTIONARY.md`。25份规划PDF另存于 `Planning_documents_25_originals.zip`。
+
+人工标签、计划划分、验证集预测、分析代码和CSV表格位于 `./statistical_materials/`。分析脚本仅使用Python标准库，不调用模型API：
+
+```bash
+python ./statistical_materials/analysis/analyze_archived_results.py
+```
+
+共享resolved JSON中缺少的3条有效归档评分见 `./statistical_materials/configs/prediction_source_exceptions.csv`。
+
+统计分析使用Python 3.10及以上版本和标准库。运行在线评估与优化还需配置自己的API凭据、Assistant及Vector Store ID，并准备各脚本引用的输入JSON；这些账户配置和运行输入文件未随包提供。优化脚本还使用Windows的 `winsound` 模块。
+
 ## 注意事项
 
 1. **速率限制**：代码中内置了 `random_lag()` 函数以规避 OpenAI API 的速率限制，若仍遇到 429 错误，请适当增大延迟参数。
 2. **Vector Store 费用**：OpenAI 的 Vector Store 存储按天计费，评估完成后请及时清理不再使用的 Vector Store。
-3. **模型选择**：默认使用 `gpt-4o-mini` 以平衡成本与效果，如需更高精度可修改为 `gpt-4o`。
+3. **模型选择**：四组评估配置见 `evaluation_configurations.json`。根据所选模型，将现有 `Plan_evaluation` 调用设为 `Plan_evaluation(model="gpt-4o", temperature=0.0)` 或 `Plan_evaluation(model="gpt-4o-mini", temperature=0.0)`，并使用配置中对应的基础提示词或最终提示词脚本目录。发布代码的生成调用固定temperature为0，File Search调用固定检索上限为20；实际返回块数可能更少。归档时间沿用原文件名记录的运行开始时间。

@@ -15,20 +15,20 @@ from Indicators.extract_confusion_Matrix_from_indicators_with_Scoring_framework_
 
 # 设置API密钥和代理地址
 api_key = ""
-api_base = ''
+api_base = "https://api.openai.com/v1"
 
-
-indicator_data_path = r"D:/Plans_Evaluation/Indicators/xlsx2json_output_3.json"
-vector_store_data_path = r"D:/Plans_Evaluation/NE_Plans/Plans picked according to completeness (county)/Files_info.json"
-indicator_generated_info_path = r"D:/Plans_Evaluation/Indicators/indicators_with_generating_info_with_scoring_framework_cleaned_file.json"
+# indicator_data_path = r"./Indicators/xlsx2json_output_3_fall_data.json"
+indicator_data_path = r"./Indicators/xlsx2json_output_3.json"
+vector_store_data_path = r"./NE_Plans/Plans picked according to completeness (county)/Files_info.json"
+indicator_generated_info_path = r"./Indicators/indicators_with_generating_info_with_scoring_framework_cleaned_file.json"
 
 context = "Wetland is the key word in this evaluation. Wetlands are areas where water covers the soil, or is present either at or near the surface of the soil all year or for varying periods of time during the year, including during the growing season. Water saturation (hydrology) largely determines how the soil develops and the types of plant and animal communities living in and on the soil. Wetlands may support both aquatic and terrestrial species. The prolonged presence of water creates conditions that favor the growth of specially adapted plants (hydrophytes) and promote the development of characteristic wetland (hydric) soils. Wetlands are usually classified according to soil and plant life as bogs, marshes, swamps, fens, and other similar environments. As a result, word wetlands, bogs, marshes, swamps, equals wetlands. Nebraska local conservation lands or programs such as wildlife management area (WMA), waterfowl production areas (WPA), conservation easement (CE) are regarded as strong linkage with wetlands.\nThe normal code for plan evaluation is using the indicators below. The evaluation uses 0-1-2 system. Each indicator represents one direction of the evaluation. If the plan gets well performance in that direction will get 2 points for that indicator. If the plan has normal performance in that direction will get 1 point for that indicator. If the plan does not shown what the indicator represents will get 0 point for that indicator. "
 
-Scoring_Framework_path = r"D:/Plans_Evaluation/Indicators/indicators_with_Scoring_Framework_with_MSE.json"
-indicator_county_path = r"D:/Plans_Evaluation/Indicators/xlsx2json_output_test_fall_data_indicator_county.json"
-optimization_result_path = r"D:/Plans_Evaluation/Result_of_Optimizing_interpretation_and_scoring_framework/"
+Scoring_Framework_path = r"./Indicators/indicators_with_Scoring_Framework_with_MSE.json"
+indicator_county_path = r"./Indicators/xlsx2json_output_test_fall_data_indicator_county.json"
+optimization_result_path = r"./Result_of_Optimizing_interpretation_and_scoring_framework/"
 
-vs_id = "vs_t3BQzVerdowImVcCIES1NH2V"
+vs_id = ""
 
 default_instruction = "Task: Conduct a comprehensive evaluation of the County Comprehensive Development Plan regarding a specified indicator, using an enhanced scoring system that captures nuanced assessments.  \n\nScoring Framework:  \n- **0 - Not Addressed (0 points):** The plan fails to mention or incorporate the indicator, demonstrating no acknowledgement of its significance. The indicator is mentioned but superficially, with limited context and unsupported relevance.  \n- **1 - Discussed with Insufficient Depth (1 point):** The plan references the indicator without integrating it meaningfully into its objectives. Lack of actionable strategies or evidence of impact is evident. The indicator is integrated with some strategic relevance and partial evidence but lacks full feasibility or comprehensive linkage to goals.  \n- **2 - Thoroughly Integrated (2 points):** The indicator is meticulously woven into the plan with established evidence, reflective of strategic relevance and clear feasibility in alignment with broader objectives.  \n\nEvaluation Process:  \n- Utilize a detailed and structured rubric to assess the plan's alignment with each scoring level, carefully noting examples and evidence.  \n- Validate the assigned score by comparing plan elements to criteria benchmarks, ensuring thorough and strategic integration for higher scores.  \n- Engage in regular training and calibration workshops to refine scoring accuracy and consistency, reducing errors and variance across evaluations.  \n- Leverage advanced analytical and AI-assisted tools for real-time feedback and pattern recognition, enhancing the precision of assessments.  \n\nConclude evaluations with well-documented justifications for scores, fostering clarity and transparency. Refer back to established feedback channels for resolving any scoring discrepancies or challenges."
 structural_response_instruction = "\n\nResponse Format: \n### Score: <here to put the score (only number range in 0, 1, and 2)>\n\n### Reason:\n1. ...\n2. ...\n3. ...\n..."
@@ -96,6 +96,7 @@ def call_api(system, role):
         try:
             completion = client.chat.completions.create(
               model="gpt-4o-mini",
+              temperature=0.0,
               messages=[
                 {"role": "system", "content": system},
                 {"role": "user", "content": role}
@@ -108,7 +109,7 @@ def call_api(system, role):
 
 '''<Evaluator>'''
 def evaluate_indicator(indicator, interpretation, scoring_framework):
-    assistant_id = "asst_01OTPzG8MFtU3ndA1gCsEXo2" # default using GPT 4o mini
+    assistant_id = "" # default using GPT 4o mini
 
     '''<read data>'''
     indicator_county_data = read_data(indicator_county_path)
@@ -259,7 +260,7 @@ def evaluate_indicator(indicator, interpretation, scoring_framework):
 '''<Optimizer>'''
 def optimize_scoring_framework(indicator_OPRO):
     '''优化某一个indicator'''
-    improving_assistant_id = "asst_q1m6UXHyWiJtEsFVSmBIiYQO"
+    improving_assistant_id = ""
 
     '''<read data>'''
     scoring_framework_data = read_data(Scoring_Framework_path)

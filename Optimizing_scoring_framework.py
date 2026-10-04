@@ -13,20 +13,20 @@ from Resolve_the_result_of_Plan_Evaluation import Change_Plan_Evaluation_from_js
 
 # 设置API密钥和代理地址
 api_key = ""
-api_base = ''
+api_base = "https://api.openai.com/v1"
 
-
-indicator_data_path = r"D:/Plans_Evaluation/Indicators/xlsx2json_output_3.json"
-vector_store_data_path = r"D:/Plans_Evaluation/NE_Plans/Plans picked according to completeness (county)/Files_info.json"
-indicator_generated_info_path = r"D:/Plans_Evaluation/Indicators/indicators_with_generating_info_with_scoring_framework_cleaned_file.json"
+# indicator_data_path = r"./Indicators/xlsx2json_output_3_fall_data.json"
+indicator_data_path = r"./Indicators/xlsx2json_output_3.json"
+vector_store_data_path = r"./NE_Plans/Plans picked according to completeness (county)/Files_info.json"
+indicator_generated_info_path = r"./Indicators/indicators_with_generating_info_with_scoring_framework_cleaned_file.json"
 
 context = "Wetland is the key word in this evaluation. Wetlands are areas where water covers the soil, or is present either at or near the surface of the soil all year or for varying periods of time during the year, including during the growing season. Water saturation (hydrology) largely determines how the soil develops and the types of plant and animal communities living in and on the soil. Wetlands may support both aquatic and terrestrial species. The prolonged presence of water creates conditions that favor the growth of specially adapted plants (hydrophytes) and promote the development of characteristic wetland (hydric) soils. Wetlands are usually classified according to soil and plant life as bogs, marshes, swamps, fens, and other similar environments. As a result, word wetlands, bogs, marshes, swamps, equals wetlands. Nebraska local conservation lands or programs such as wildlife management area (WMA), waterfowl production areas (WPA), conservation easement (CE) are regarded as strong linkage with wetlands.\nThe normal code for plan evaluation is using the indicators below. The evaluation uses 0-1-2 system. Each indicator represents one direction of the evaluation. If the plan gets well performance in that direction will get 2 points for that indicator. If the plan has normal performance in that direction will get 1 point for that indicator. If the plan does not shown what the indicator represents will get 0 point for that indicator. "
 
-Scoring_Framework_path = r"D:/Plans_Evaluation/Indicators/indicators_with_Scoring_Framework_with_MSE.json"
-indicator_county_path = r"D:/Plans_Evaluation/Indicators/xlsx2json_output_test_fall_data_indicator_county.json"
-optimization_result_path = r"D:/Plans_Evaluation/Result_of_Optimizing_interpretation_and_scoring_framework/"
+Scoring_Framework_path = r"./Indicators/indicators_with_Scoring_Framework_with_MSE.json"
+indicator_county_path = r"./Indicators/xlsx2json_output_test_fall_data_indicator_county.json"
+optimization_result_path = r"./Result_of_Optimizing_interpretation_and_scoring_framework/"
 
-new_scoring_framework_path = r"D:/Plans_Evaluation/Indicators/indicators_with_generating_info_dict_for_modify_modified_at__extracted_cleaned.json"
+new_scoring_framework_path = r"./Indicators/indicators_with_generating_info_dict_for_modify_modified_at_24-10-30 19-17-56_extracted_cleaned.json"
 
 vs_id = ""
 
@@ -97,7 +97,7 @@ def extract_content(text, tag):
 
 '''<Evaluator>'''
 def evaluate_indicator(indicator, interpretation, scoring_framework):
-    assistant_id = "asst_01OTPzG8MFtU3ndA1gCsEXo2" # default using GPT 4o mini
+    assistant_id = "" # default using GPT 4o mini
 
     '''<read data>'''
     indicator_county_data = read_data(indicator_county_path)
@@ -248,7 +248,7 @@ def evaluate_indicator(indicator, interpretation, scoring_framework):
 '''<Optimizer>'''
 def optimize_scoring_framework(indicator_OPRO):
     '''优化某一个indicator'''
-    improving_assistant_id = "asst_q1m6UXHyWiJtEsFVSmBIiYQO"
+    improving_assistant_id = ""
 
     '''<read data>'''
     scoring_framework_data = read_data(Scoring_Framework_path)
