@@ -1,0 +1,4522 @@
+{
+  "Antelope": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "2"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "0"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "2"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "2"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Buffalo": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "0"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Butler": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "2"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "0"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "0"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "0"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Dakota": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "0"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "1"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Dawes": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "0"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "2"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "2"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "1"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "1"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "0"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Furnas": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "2"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "2"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "2"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "2"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "2"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "2"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "2"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "1"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "2"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "2"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "2"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "2"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "2"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "1"
+    }
+  ],
+  "Greeley": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "0"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Hitchcock": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "2"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "1"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "1"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Howard": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "1"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Kearney": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "0"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Kimball": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "1"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "1"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "0"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "0"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Knox": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "2"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "2"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "2"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "2"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "2"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "1"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "1"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "2"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Lincoln": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "2"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "2"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "2"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "2"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "2"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "2"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "2"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "1"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "1"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "2"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "2"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "2"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "1"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "1"
+    }
+  ],
+  "Nance": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "0"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "2"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "1"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Perkins": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "2"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "0"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Red Willow": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "2"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "2"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "2"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "1"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "1"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Seward": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "2"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "2"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "2"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "2"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "2"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "2"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "1"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "2"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "2"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "2"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "1"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "1"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "2"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "2"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "2"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "2"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "2"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Valley": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "0"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "0"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "0"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "1"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "0"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "0"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "Wayne": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "1"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "0"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "1"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "1"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "0"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "1"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "1"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "1"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "1"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "1"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ],
+  "York": [
+    {
+      "indicator": "Natural or environmental resources described (open space, green space, river corridors)",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation areas mapped/described",
+      "value": "0"
+    },
+    {
+      "indicator": "Environmental sensitive area described ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland current status and description (historical loss/gain/degradation/challenges)",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland definition  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland maps and classifications",
+      "value": "0"
+    },
+    {
+      "indicator": "Local wetland types/classification",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation projects/programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation prioritized in land use development",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation lands identified on land use maps/plans",
+      "value": "0"
+    },
+    {
+      "indicator": "Watershed management programs",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resources related description (e.g. quantity and quality, pollution)",
+      "value": "1"
+    },
+    {
+      "indicator": "Watershed development status (ISA, stormwater,)",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for no net loss",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for anti-degradation",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for increasing wetland quantity and quality",
+      "value": "0"
+    },
+    {
+      "indicator": "Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental sustainability/resilience goal",
+      "value": "1"
+    },
+    {
+      "indicator": "Manmade/constructed wetland and wetland restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Future land use and zoning regulations",
+      "value": "1"
+    },
+    {
+      "indicator": "Zoning policies for specific areas for protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Low density design standard and building codes for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Regulate wetland disturbance and impact activities",
+      "value": "1"
+    },
+    {
+      "indicator": "Prohibit development in environmental sensitive areas",
+      "value": "0"
+    },
+    {
+      "indicator": "Subdivision regulations on open space and park land",
+      "value": "1"
+    },
+    {
+      "indicator": "Policies on rural character maintaining",
+      "value": "1"
+    },
+    {
+      "indicator": "Road and transportation standard adjustment for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation design standards and techniques",
+      "value": "0"
+    },
+    {
+      "indicator": "Water resource protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Environmental regulations for natural system protection",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",
+      "value": "1"
+    },
+    {
+      "indicator": "Regulations for buffer zone",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland/water management and restoration",
+      "value": "0"
+    },
+    {
+      "indicator": "Permitted use protecting natural system",
+      "value": "0"
+    },
+    {
+      "indicator": "Stormwater management",
+      "value": "0"
+    },
+    {
+      "indicator": "Water related BMPs",
+      "value": "0"
+    },
+    {
+      "indicator": "Local tax incentives to support conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Mixed use development/Low impact development",
+      "value": "0"
+    },
+    {
+      "indicator": "Development rights related strategies",
+      "value": "0"
+    },
+    {
+      "indicator": "Clustered development",
+      "value": "0"
+    },
+    {
+      "indicator": "Density bonuses",
+      "value": "0"
+    },
+    {
+      "indicator": "Conservation easement  ",
+      "value": "0"
+    },
+    {
+      "indicator": "Land acquisition program for conservation",
+      "value": "0"
+    },
+    {
+      "indicator": "Financial/economic incentive for conservation",
+      "value": "1"
+    },
+    {
+      "indicator": "Conservation education/outreach projects/programs/activities",
+      "value": "0"
+    },
+    {
+      "indicator": "Natural educational opportunities",
+      "value": "0"
+    },
+    {
+      "indicator": "Waterfront recreational sites for education/educational facilities",
+      "value": "0"
+    },
+    {
+      "indicator": "Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117",
+      "value": "0"
+    },
+    {
+      "indicator": "Coordination with local/state/federal agencies",
+      "value": "1"
+    },
+    {
+      "indicator": "Coordination with NGOs or environmental organizations/research institutes /participants",
+      "value": "1"
+    },
+    {
+      "indicator": "Integration with other plans/policies/programs",
+      "value": "1"
+    },
+    {
+      "indicator": "Implementation timelines/trend",
+      "value": "0"
+    },
+    {
+      "indicator": "Wetland-related task force/committee",
+      "value": "0"
+    },
+    {
+      "indicator": "Maintenance and updating procedure and development continuum",
+      "value": "0"
+    },
+    {
+      "indicator": "Plan effectiveness on conservation monitoring",
+      "value": "0"
+    },
+    {
+      "indicator": "Implementation of conservation development techniques/practices",
+      "value": "0"
+    }
+  ]
+}

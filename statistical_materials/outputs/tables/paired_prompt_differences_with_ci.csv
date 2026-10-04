@@ -1,0 +1,5 @@
+model_label,scale,optimized_condition,basic_condition,mean_difference_percentage_points,ci95_low,ci95_high
+GPT-4o,ternary,gpt4o_final,gpt4o_basic,14.514481,11.357383,17.78083
+GPT-4o,binary_posthoc,gpt4o_final,gpt4o_basic,-0.271436,-3.342022,2.840685
+GPT-4o mini,ternary,gpt4o_mini_final,gpt4o_mini_basic,15.396104,9.980519,20.672078
+GPT-4o mini,binary_posthoc,gpt4o_mini_final,gpt4o_mini_basic,4.637987,0.573052,8.665584

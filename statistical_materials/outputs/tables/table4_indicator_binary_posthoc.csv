@@ -1,0 +1,57 @@
+indicator,gpt4o_final_binary_agreement,gpt4o_final_parsed_n,gpt4o_final_missing_n,gpt4o_basic_binary_agreement,gpt4o_basic_parsed_n,gpt4o_basic_missing_n,gpt4o_mini_basic_binary_agreement,gpt4o_mini_basic_parsed_n,gpt4o_mini_basic_missing_n,gpt4o_mini_final_binary_agreement,gpt4o_mini_final_parsed_n,gpt4o_mini_final_missing_n
+"Natural or environmental resources described (open space, green space, river corridors)",95.0,20,0,100.0,20,0,100.0,20,0,100.0,20,0
+Conservation areas mapped/described,65.0,20,0,73.684211,19,1,75.0,20,0,90.0,20,0
+Environmental sensitive area described ,65.0,20,0,63.157895,19,1,60.0,20,0,75.0,20,0
+Wetland current status and description (historical loss/gain/degradation/challenges),70.0,20,0,75.0,20,0,50.0,20,0,45.0,20,0
+Wetland definition  ,95.0,20,0,100.0,20,0,85.0,20,0,100.0,20,0
+Wetland maps and classifications,95.0,20,0,85.0,20,0,75.0,20,0,85.0,20,0
+Local wetland types/classification,95.0,20,0,90.0,20,0,90.0,20,0,90.0,20,0
+Conservation projects/programs,45.0,20,0,75.0,20,0,75.0,20,0,45.0,20,0
+Conservation prioritized in land use development,60.0,20,0,55.0,20,0,55.0,20,0,65.0,20,0
+Conservation lands identified on land use maps/plans,65.0,20,0,50.0,20,0,30.0,20,0,55.0,20,0
+Watershed management programs,75.0,20,0,65.0,20,0,40.0,20,0,70.0,20,0
+"Water resources related description (e.g. quantity and quality, pollution)",80.0,20,0,78.947368,19,1,85.0,20,0,80.0,20,0
+"Watershed development status (ISA, stormwater,)",60.0,20,0,70.0,20,0,55.0,20,0,70.0,20,0
+Goals for no net loss,95.0,20,0,78.947368,19,1,40.0,20,0,80.0,20,0
+Goals for anti-degradation,60.0,20,0,78.947368,19,1,85.0,20,0,55.0,20,0
+Goals for increasing wetland quantity and quality,70.0,20,0,80.0,20,0,60.0,20,0,85.0,20,0
+"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",65.0,20,0,60.0,20,0,75.0,20,0,60.0,20,0
+Environmental sustainability/resilience goal,70.0,20,0,70.0,20,0,70.0,20,0,65.0,20,0
+Manmade/constructed wetland and wetland restoration,80.0,20,0,90.0,20,0,95.0,20,0,90.0,20,0
+Future land use and zoning regulations,95.0,20,0,100.0,20,0,100.0,20,0,100.0,20,0
+Zoning policies for specific areas for protection,80.0,20,0,90.0,20,0,95.0,20,0,90.0,20,0
+Low density design standard and building codes for conservation,40.0,20,0,40.0,20,0,30.0,20,0,45.0,20,0
+Regulate wetland disturbance and impact activities,55.0,20,0,60.0,20,0,35.0,20,0,50.0,20,0
+Prohibit development in environmental sensitive areas,90.0,20,0,85.0,20,0,90.0,20,0,90.0,20,0
+Subdivision regulations on open space and park land,80.0,20,0,85.0,20,0,85.0,20,0,80.0,20,0
+Policies on rural character maintaining,85.0,20,0,100.0,19,1,100.0,20,0,95.0,20,0
+Road and transportation standard adjustment for conservation,30.0,20,0,50.0,20,0,90.0,20,0,40.0,20,0
+Conservation design standards and techniques,55.0,20,0,70.0,20,0,75.0,20,0,65.0,20,0
+Water resource protection,90.0,20,0,95.0,20,0,100.0,20,0,85.0,20,0
+Environmental regulations for natural system protection,90.0,20,0,95.0,20,0,90.0,20,0,85.0,20,0
+"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",65.0,20,0,70.0,20,0,65.0,20,0,65.0,20,0
+Regulations for buffer zone,80.0,20,0,89.473684,19,1,55.0,20,0,85.0,20,0
+Wetland/water management and restoration,50.0,20,0,50.0,20,0,30.0,20,0,65.0,20,0
+Permitted use protecting natural system,60.0,20,0,85.0,20,0,80.0,20,0,50.0,20,0
+Stormwater management,45.0,20,0,42.105263,19,1,30.0,20,0,65.0,20,0
+Water related BMPs,65.0,20,0,60.0,20,0,15.0,20,0,65.0,20,0
+Local tax incentives to support conservation,70.0,20,0,70.0,20,0,60.0,20,0,75.0,20,0
+Mixed use development/Low impact development,65.0,20,0,40.0,20,0,15.0,20,0,60.0,20,0
+Development rights related strategies,70.0,20,0,50.0,20,0,15.0,20,0,40.0,20,0
+Clustered development,80.0,20,0,60.0,20,0,40.0,20,0,75.0,20,0
+Density bonuses,90.0,20,0,90.0,20,0,65.0,20,0,70.0,20,0
+Conservation easement  ,90.0,20,0,90.0,20,0,75.0,20,0,80.0,20,0
+Land acquisition program for conservation,85.0,20,0,75.0,20,0,85.0,20,0,85.0,20,0
+Financial/economic incentive for conservation,70.0,20,0,63.157895,19,1,60.0,20,0,65.0,20,0
+Conservation education/outreach projects/programs/activities,60.0,20,0,45.0,20,0,55.0,20,0,75.0,20,0
+Natural educational opportunities,50.0,20,0,70.0,20,0,55.0,20,0,55.0,20,0
+Waterfront recreational sites for education/educational facilities,70.0,20,0,50.0,20,0,25.0,20,0,70.0,20,0
+Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,95.0,20,0,89.473684,19,1,78.947368,19,1,85.0,20,0
+Coordination with local/state/federal agencies,70.0,20,0,95.0,20,0,90.0,20,0,40.0,20,0
+Coordination with NGOs or environmental organizations/research institutes /participants,35.0,20,0,45.0,20,0,80.0,20,0,35.0,20,0
+Integration with other plans/policies/programs,75.0,20,0,94.736842,19,1,90.0,20,0,50.0,20,0
+Implementation timelines/trend,50.0,20,0,25.0,20,0,25.0,20,0,55.0,20,0
+Wetland-related task force/committee,95.0,20,0,95.0,20,0,95.0,20,0,95.0,20,0
+Maintenance and updating procedure and development continuum,70.0,20,0,80.0,20,0,78.947368,19,1,60.0,20,0
+Plan effectiveness on conservation monitoring,90.0,20,0,63.157895,19,1,65.0,20,0,50.0,20,0
+Implementation of conservation development techniques/practices,63.157895,19,1,25.0,20,0,15.0,20,0,45.0,20,0

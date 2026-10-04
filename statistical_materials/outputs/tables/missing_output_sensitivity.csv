@@ -1,0 +1,7 @@
+analysis,model_label,condition_id,comparison_condition_id,correct_n,denominator_n,agreement_or_difference_percentage_points
+expected_denominator_unparseable_as_disagreement,GPT-4o,gpt4o_final,,696,1120,62.142857
+expected_denominator_unparseable_as_disagreement,GPT-4o,gpt4o_basic,,529,1120,47.232143
+expected_denominator_unparseable_as_disagreement,GPT-4o mini,gpt4o_mini_basic,,485,1120,43.303571
+expected_denominator_unparseable_as_disagreement,GPT-4o mini,gpt4o_mini_final,,658,1120,58.75
+paired_intersection_only_optimized_minus_basic,GPT-4o,gpt4o_final,gpt4o_basic,,1107,14.510537
+paired_intersection_only_optimized_minus_basic,GPT-4o mini,gpt4o_mini_final,gpt4o_mini_basic,,1118,15.410714

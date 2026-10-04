@@ -1,0 +1,4 @@
+condition_id,county,indicator,model_score,source
+gpt4o_basic,Hitchcock,Wetland maps and classifications,0,archived raw JSON and original prediction table; absent from shared resolved JSON
+gpt4o_basic,Hitchcock,Local wetland types/classification,0,archived raw JSON and original prediction table; absent from shared resolved JSON
+gpt4o_basic,Hitchcock,Zoning policies for specific areas for protection,0,archived raw JSON and original prediction table; absent from shared resolved JSON

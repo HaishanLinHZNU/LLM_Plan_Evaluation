@@ -1,0 +1,5 @@
+condition_id,model_label,prompt_condition,legacy_label,overall_item_agreement,mean_county_agreement,min_county_agreement,max_county_agreement,overall_binary_agreement,cohen_kappa_unweighted,cohen_kappa_linear_weighted,binary_cohen_kappa,expected_n,parsed_n,missing_n
+gpt4o_final,GPT-4o,optimized,4o finial,62.198391,62.201299,48.214286,75.0,71.492404,0.357235,0.427267,0.429261,1120,1119,1
+gpt4o_basic,GPT-4o,basic,4o basic,47.743682,47.686818,35.714286,62.5,71.750903,0.207996,0.319842,0.436999,1120,1108,12
+gpt4o_mini_basic,GPT-4o mini,basic,4o-mini basic,43.381038,43.353896,21.818182,62.5,64.847943,0.169292,0.291976,0.302273,1120,1118,2
+gpt4o_mini_final,GPT-4o mini,optimized,4o-mini finial,58.75,58.75,37.5,80.357143,69.464286,0.30572,0.385092,0.389354,1120,1120,0

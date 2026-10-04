@@ -1,0 +1,1121 @@
+county,indicator,split,human_score
+Antelope,"Natural or environmental resources described (open space, green space, river corridors)",validation,2
+Antelope,Conservation areas mapped/described,validation,1
+Antelope,Environmental sensitive area described ,validation,1
+Antelope,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Antelope,Wetland definition  ,validation,0
+Antelope,Wetland maps and classifications,validation,0
+Antelope,Local wetland types/classification,validation,0
+Antelope,Conservation projects/programs,validation,1
+Antelope,Conservation prioritized in land use development,validation,2
+Antelope,Conservation lands identified on land use maps/plans,validation,0
+Antelope,Watershed management programs,validation,0
+Antelope,"Water resources related description (e.g. quantity and quality, pollution)",validation,2
+Antelope,"Watershed development status (ISA, stormwater,)",validation,0
+Antelope,Goals for no net loss,validation,0
+Antelope,Goals for anti-degradation,validation,0
+Antelope,Goals for increasing wetland quantity and quality,validation,2
+Antelope,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,2
+Antelope,Environmental sustainability/resilience goal,validation,0
+Antelope,Manmade/constructed wetland and wetland restoration,validation,0
+Antelope,Future land use and zoning regulations,validation,2
+Antelope,Zoning policies for specific areas for protection,validation,1
+Antelope,Low density design standard and building codes for conservation,validation,1
+Antelope,Regulate wetland disturbance and impact activities,validation,0
+Antelope,Prohibit development in environmental sensitive areas,validation,2
+Antelope,Subdivision regulations on open space and park land,validation,1
+Antelope,Policies on rural character maintaining,validation,1
+Antelope,Road and transportation standard adjustment for conservation,validation,1
+Antelope,Conservation design standards and techniques,validation,1
+Antelope,Water resource protection,validation,2
+Antelope,Environmental regulations for natural system protection,validation,1
+Antelope,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,2
+Antelope,Regulations for buffer zone,validation,0
+Antelope,Wetland/water management and restoration,validation,0
+Antelope,Permitted use protecting natural system,validation,1
+Antelope,Stormwater management,validation,0
+Antelope,Water related BMPs,validation,0
+Antelope,Local tax incentives to support conservation,validation,0
+Antelope,Mixed use development/Low impact development,validation,0
+Antelope,Development rights related strategies,validation,0
+Antelope,Clustered development,validation,0
+Antelope,Density bonuses,validation,0
+Antelope,Conservation easement  ,validation,0
+Antelope,Land acquisition program for conservation,validation,0
+Antelope,Financial/economic incentive for conservation,validation,1
+Antelope,Conservation education/outreach projects/programs/activities,validation,0
+Antelope,Natural educational opportunities,validation,1
+Antelope,Waterfront recreational sites for education/educational facilities,validation,0
+Antelope,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Antelope,Coordination with local/state/federal agencies,validation,1
+Antelope,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Antelope,Integration with other plans/policies/programs,validation,1
+Antelope,Implementation timelines/trend,validation,0
+Antelope,Wetland-related task force/committee,validation,0
+Antelope,Maintenance and updating procedure and development continuum,validation,1
+Antelope,Plan effectiveness on conservation monitoring,validation,1
+Antelope,Implementation of conservation development techniques/practices,validation,0
+Buffalo,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Buffalo,Conservation areas mapped/described,validation,1
+Buffalo,Environmental sensitive area described ,validation,0
+Buffalo,Wetland current status and description (historical loss/gain/degradation/challenges),validation,2
+Buffalo,Wetland definition  ,validation,0
+Buffalo,Wetland maps and classifications,validation,0
+Buffalo,Local wetland types/classification,validation,0
+Buffalo,Conservation projects/programs,validation,0
+Buffalo,Conservation prioritized in land use development,validation,0
+Buffalo,Conservation lands identified on land use maps/plans,validation,0
+Buffalo,Watershed management programs,validation,0
+Buffalo,"Water resources related description (e.g. quantity and quality, pollution)",validation,0
+Buffalo,"Watershed development status (ISA, stormwater,)",validation,0
+Buffalo,Goals for no net loss,validation,0
+Buffalo,Goals for anti-degradation,validation,1
+Buffalo,Goals for increasing wetland quantity and quality,validation,0
+Buffalo,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,0
+Buffalo,Environmental sustainability/resilience goal,validation,0
+Buffalo,Manmade/constructed wetland and wetland restoration,validation,0
+Buffalo,Future land use and zoning regulations,validation,1
+Buffalo,Zoning policies for specific areas for protection,validation,1
+Buffalo,Low density design standard and building codes for conservation,validation,0
+Buffalo,Regulate wetland disturbance and impact activities,validation,0
+Buffalo,Prohibit development in environmental sensitive areas,validation,1
+Buffalo,Subdivision regulations on open space and park land,validation,1
+Buffalo,Policies on rural character maintaining,validation,1
+Buffalo,Road and transportation standard adjustment for conservation,validation,1
+Buffalo,Conservation design standards and techniques,validation,1
+Buffalo,Water resource protection,validation,1
+Buffalo,Environmental regulations for natural system protection,validation,1
+Buffalo,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,0
+Buffalo,Regulations for buffer zone,validation,0
+Buffalo,Wetland/water management and restoration,validation,0
+Buffalo,Permitted use protecting natural system,validation,1
+Buffalo,Stormwater management,validation,0
+Buffalo,Water related BMPs,validation,0
+Buffalo,Local tax incentives to support conservation,validation,0
+Buffalo,Mixed use development/Low impact development,validation,0
+Buffalo,Development rights related strategies,validation,0
+Buffalo,Clustered development,validation,0
+Buffalo,Density bonuses,validation,0
+Buffalo,Conservation easement  ,validation,0
+Buffalo,Land acquisition program for conservation,validation,0
+Buffalo,Financial/economic incentive for conservation,validation,0
+Buffalo,Conservation education/outreach projects/programs/activities,validation,1
+Buffalo,Natural educational opportunities,validation,1
+Buffalo,Waterfront recreational sites for education/educational facilities,validation,0
+Buffalo,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Buffalo,Coordination with local/state/federal agencies,validation,1
+Buffalo,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Buffalo,Integration with other plans/policies/programs,validation,1
+Buffalo,Implementation timelines/trend,validation,1
+Buffalo,Wetland-related task force/committee,validation,0
+Buffalo,Maintenance and updating procedure and development continuum,validation,1
+Buffalo,Plan effectiveness on conservation monitoring,validation,0
+Buffalo,Implementation of conservation development techniques/practices,validation,0
+Butler,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Butler,Conservation areas mapped/described,validation,1
+Butler,Environmental sensitive area described ,validation,1
+Butler,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Butler,Wetland definition  ,validation,0
+Butler,Wetland maps and classifications,validation,0
+Butler,Local wetland types/classification,validation,0
+Butler,Conservation projects/programs,validation,1
+Butler,Conservation prioritized in land use development,validation,0
+Butler,Conservation lands identified on land use maps/plans,validation,0
+Butler,Watershed management programs,validation,0
+Butler,"Water resources related description (e.g. quantity and quality, pollution)",validation,2
+Butler,"Watershed development status (ISA, stormwater,)",validation,0
+Butler,Goals for no net loss,validation,0
+Butler,Goals for anti-degradation,validation,1
+Butler,Goals for increasing wetland quantity and quality,validation,0
+Butler,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,0
+Butler,Environmental sustainability/resilience goal,validation,0
+Butler,Manmade/constructed wetland and wetland restoration,validation,0
+Butler,Future land use and zoning regulations,validation,1
+Butler,Zoning policies for specific areas for protection,validation,1
+Butler,Low density design standard and building codes for conservation,validation,0
+Butler,Regulate wetland disturbance and impact activities,validation,0
+Butler,Prohibit development in environmental sensitive areas,validation,1
+Butler,Subdivision regulations on open space and park land,validation,0
+Butler,Policies on rural character maintaining,validation,1
+Butler,Road and transportation standard adjustment for conservation,validation,1
+Butler,Conservation design standards and techniques,validation,1
+Butler,Water resource protection,validation,1
+Butler,Environmental regulations for natural system protection,validation,1
+Butler,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,0
+Butler,Regulations for buffer zone,validation,0
+Butler,Wetland/water management and restoration,validation,0
+Butler,Permitted use protecting natural system,validation,1
+Butler,Stormwater management,validation,0
+Butler,Water related BMPs,validation,0
+Butler,Local tax incentives to support conservation,validation,0
+Butler,Mixed use development/Low impact development,validation,0
+Butler,Development rights related strategies,validation,0
+Butler,Clustered development,validation,0
+Butler,Density bonuses,validation,1
+Butler,Conservation easement  ,validation,0
+Butler,Land acquisition program for conservation,validation,0
+Butler,Financial/economic incentive for conservation,validation,0
+Butler,Conservation education/outreach projects/programs/activities,validation,0
+Butler,Natural educational opportunities,validation,1
+Butler,Waterfront recreational sites for education/educational facilities,validation,0
+Butler,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Butler,Coordination with local/state/federal agencies,validation,0
+Butler,Coordination with NGOs or environmental organizations/research institutes /participants,validation,0
+Butler,Integration with other plans/policies/programs,validation,0
+Butler,Implementation timelines/trend,validation,0
+Butler,Wetland-related task force/committee,validation,0
+Butler,Maintenance and updating procedure and development continuum,validation,1
+Butler,Plan effectiveness on conservation monitoring,validation,0
+Butler,Implementation of conservation development techniques/practices,validation,0
+Dakota,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Dakota,Conservation areas mapped/described,validation,1
+Dakota,Environmental sensitive area described ,validation,1
+Dakota,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Dakota,Wetland definition  ,validation,0
+Dakota,Wetland maps and classifications,validation,0
+Dakota,Local wetland types/classification,validation,0
+Dakota,Conservation projects/programs,validation,1
+Dakota,Conservation prioritized in land use development,validation,0
+Dakota,Conservation lands identified on land use maps/plans,validation,0
+Dakota,Watershed management programs,validation,0
+Dakota,"Water resources related description (e.g. quantity and quality, pollution)",validation,0
+Dakota,"Watershed development status (ISA, stormwater,)",validation,0
+Dakota,Goals for no net loss,validation,0
+Dakota,Goals for anti-degradation,validation,0
+Dakota,Goals for increasing wetland quantity and quality,validation,0
+Dakota,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+Dakota,Environmental sustainability/resilience goal,validation,1
+Dakota,Manmade/constructed wetland and wetland restoration,validation,2
+Dakota,Future land use and zoning regulations,validation,1
+Dakota,Zoning policies for specific areas for protection,validation,1
+Dakota,Low density design standard and building codes for conservation,validation,0
+Dakota,Regulate wetland disturbance and impact activities,validation,0
+Dakota,Prohibit development in environmental sensitive areas,validation,1
+Dakota,Subdivision regulations on open space and park land,validation,1
+Dakota,Policies on rural character maintaining,validation,1
+Dakota,Road and transportation standard adjustment for conservation,validation,1
+Dakota,Conservation design standards and techniques,validation,1
+Dakota,Water resource protection,validation,1
+Dakota,Environmental regulations for natural system protection,validation,1
+Dakota,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+Dakota,Regulations for buffer zone,validation,0
+Dakota,Wetland/water management and restoration,validation,2
+Dakota,Permitted use protecting natural system,validation,0
+Dakota,Stormwater management,validation,1
+Dakota,Water related BMPs,validation,0
+Dakota,Local tax incentives to support conservation,validation,0
+Dakota,Mixed use development/Low impact development,validation,0
+Dakota,Development rights related strategies,validation,0
+Dakota,Clustered development,validation,0
+Dakota,Density bonuses,validation,0
+Dakota,Conservation easement  ,validation,0
+Dakota,Land acquisition program for conservation,validation,0
+Dakota,Financial/economic incentive for conservation,validation,0
+Dakota,Conservation education/outreach projects/programs/activities,validation,1
+Dakota,Natural educational opportunities,validation,1
+Dakota,Waterfront recreational sites for education/educational facilities,validation,0
+Dakota,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Dakota,Coordination with local/state/federal agencies,validation,1
+Dakota,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Dakota,Integration with other plans/policies/programs,validation,1
+Dakota,Implementation timelines/trend,validation,0
+Dakota,Wetland-related task force/committee,validation,0
+Dakota,Maintenance and updating procedure and development continuum,validation,1
+Dakota,Plan effectiveness on conservation monitoring,validation,0
+Dakota,Implementation of conservation development techniques/practices,validation,0
+Dawes,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Dawes,Conservation areas mapped/described,validation,1
+Dawes,Environmental sensitive area described ,validation,2
+Dawes,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Dawes,Wetland definition  ,validation,0
+Dawes,Wetland maps and classifications,validation,0
+Dawes,Local wetland types/classification,validation,0
+Dawes,Conservation projects/programs,validation,1
+Dawes,Conservation prioritized in land use development,validation,1
+Dawes,Conservation lands identified on land use maps/plans,validation,0
+Dawes,Watershed management programs,validation,0
+Dawes,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Dawes,"Watershed development status (ISA, stormwater,)",validation,0
+Dawes,Goals for no net loss,validation,0
+Dawes,Goals for anti-degradation,validation,2
+Dawes,Goals for increasing wetland quantity and quality,validation,0
+Dawes,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,0
+Dawes,Environmental sustainability/resilience goal,validation,1
+Dawes,Manmade/constructed wetland and wetland restoration,validation,0
+Dawes,Future land use and zoning regulations,validation,1
+Dawes,Zoning policies for specific areas for protection,validation,1
+Dawes,Low density design standard and building codes for conservation,validation,2
+Dawes,Regulate wetland disturbance and impact activities,validation,0
+Dawes,Prohibit development in environmental sensitive areas,validation,0
+Dawes,Subdivision regulations on open space and park land,validation,2
+Dawes,Policies on rural character maintaining,validation,1
+Dawes,Road and transportation standard adjustment for conservation,validation,1
+Dawes,Conservation design standards and techniques,validation,2
+Dawes,Water resource protection,validation,1
+Dawes,Environmental regulations for natural system protection,validation,0
+Dawes,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,0
+Dawes,Regulations for buffer zone,validation,0
+Dawes,Wetland/water management and restoration,validation,0
+Dawes,Permitted use protecting natural system,validation,1
+Dawes,Stormwater management,validation,1
+Dawes,Water related BMPs,validation,0
+Dawes,Local tax incentives to support conservation,validation,0
+Dawes,Mixed use development/Low impact development,validation,0
+Dawes,Development rights related strategies,validation,0
+Dawes,Clustered development,validation,1
+Dawes,Density bonuses,validation,0
+Dawes,Conservation easement  ,validation,0
+Dawes,Land acquisition program for conservation,validation,0
+Dawes,Financial/economic incentive for conservation,validation,0
+Dawes,Conservation education/outreach projects/programs/activities,validation,0
+Dawes,Natural educational opportunities,validation,1
+Dawes,Waterfront recreational sites for education/educational facilities,validation,0
+Dawes,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Dawes,Coordination with local/state/federal agencies,validation,1
+Dawes,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Dawes,Integration with other plans/policies/programs,validation,1
+Dawes,Implementation timelines/trend,validation,0
+Dawes,Wetland-related task force/committee,validation,0
+Dawes,Maintenance and updating procedure and development continuum,validation,0
+Dawes,Plan effectiveness on conservation monitoring,validation,0
+Dawes,Implementation of conservation development techniques/practices,validation,0
+Furnas,"Natural or environmental resources described (open space, green space, river corridors)",validation,2
+Furnas,Conservation areas mapped/described,validation,2
+Furnas,Environmental sensitive area described ,validation,2
+Furnas,Wetland current status and description (historical loss/gain/degradation/challenges),validation,2
+Furnas,Wetland definition  ,validation,2
+Furnas,Wetland maps and classifications,validation,2
+Furnas,Local wetland types/classification,validation,2
+Furnas,Conservation projects/programs,validation,2
+Furnas,Conservation prioritized in land use development,validation,2
+Furnas,Conservation lands identified on land use maps/plans,validation,2
+Furnas,Watershed management programs,validation,2
+Furnas,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Furnas,"Watershed development status (ISA, stormwater,)",validation,1
+Furnas,Goals for no net loss,validation,0
+Furnas,Goals for anti-degradation,validation,2
+Furnas,Goals for increasing wetland quantity and quality,validation,1
+Furnas,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,2
+Furnas,Environmental sustainability/resilience goal,validation,1
+Furnas,Manmade/constructed wetland and wetland restoration,validation,2
+Furnas,Future land use and zoning regulations,validation,2
+Furnas,Zoning policies for specific areas for protection,validation,2
+Furnas,Low density design standard and building codes for conservation,validation,0
+Furnas,Regulate wetland disturbance and impact activities,validation,2
+Furnas,Prohibit development in environmental sensitive areas,validation,2
+Furnas,Subdivision regulations on open space and park land,validation,2
+Furnas,Policies on rural character maintaining,validation,1
+Furnas,Road and transportation standard adjustment for conservation,validation,1
+Furnas,Conservation design standards and techniques,validation,1
+Furnas,Water resource protection,validation,1
+Furnas,Environmental regulations for natural system protection,validation,1
+Furnas,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+Furnas,Regulations for buffer zone,validation,1
+Furnas,Wetland/water management and restoration,validation,2
+Furnas,Permitted use protecting natural system,validation,2
+Furnas,Stormwater management,validation,0
+Furnas,Water related BMPs,validation,0
+Furnas,Local tax incentives to support conservation,validation,2
+Furnas,Mixed use development/Low impact development,validation,0
+Furnas,Development rights related strategies,validation,0
+Furnas,Clustered development,validation,1
+Furnas,Density bonuses,validation,0
+Furnas,Conservation easement  ,validation,2
+Furnas,Land acquisition program for conservation,validation,2
+Furnas,Financial/economic incentive for conservation,validation,2
+Furnas,Conservation education/outreach projects/programs/activities,validation,2
+Furnas,Natural educational opportunities,validation,2
+Furnas,Waterfront recreational sites for education/educational facilities,validation,0
+Furnas,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,2
+Furnas,Coordination with local/state/federal agencies,validation,1
+Furnas,Coordination with NGOs or environmental organizations/research institutes /participants,validation,2
+Furnas,Integration with other plans/policies/programs,validation,2
+Furnas,Implementation timelines/trend,validation,1
+Furnas,Wetland-related task force/committee,validation,0
+Furnas,Maintenance and updating procedure and development continuum,validation,1
+Furnas,Plan effectiveness on conservation monitoring,validation,1
+Furnas,Implementation of conservation development techniques/practices,validation,1
+Greeley,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Greeley,Conservation areas mapped/described,validation,0
+Greeley,Environmental sensitive area described ,validation,0
+Greeley,Wetland current status and description (historical loss/gain/degradation/challenges),validation,2
+Greeley,Wetland definition  ,validation,0
+Greeley,Wetland maps and classifications,validation,0
+Greeley,Local wetland types/classification,validation,0
+Greeley,Conservation projects/programs,validation,0
+Greeley,Conservation prioritized in land use development,validation,0
+Greeley,Conservation lands identified on land use maps/plans,validation,0
+Greeley,Watershed management programs,validation,0
+Greeley,"Water resources related description (e.g. quantity and quality, pollution)",validation,0
+Greeley,"Watershed development status (ISA, stormwater,)",validation,0
+Greeley,Goals for no net loss,validation,0
+Greeley,Goals for anti-degradation,validation,1
+Greeley,Goals for increasing wetland quantity and quality,validation,0
+Greeley,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+Greeley,Environmental sustainability/resilience goal,validation,0
+Greeley,Manmade/constructed wetland and wetland restoration,validation,0
+Greeley,Future land use and zoning regulations,validation,1
+Greeley,Zoning policies for specific areas for protection,validation,1
+Greeley,Low density design standard and building codes for conservation,validation,0
+Greeley,Regulate wetland disturbance and impact activities,validation,0
+Greeley,Prohibit development in environmental sensitive areas,validation,1
+Greeley,Subdivision regulations on open space and park land,validation,1
+Greeley,Policies on rural character maintaining,validation,1
+Greeley,Road and transportation standard adjustment for conservation,validation,1
+Greeley,Conservation design standards and techniques,validation,1
+Greeley,Water resource protection,validation,1
+Greeley,Environmental regulations for natural system protection,validation,1
+Greeley,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,0
+Greeley,Regulations for buffer zone,validation,0
+Greeley,Wetland/water management and restoration,validation,0
+Greeley,Permitted use protecting natural system,validation,1
+Greeley,Stormwater management,validation,0
+Greeley,Water related BMPs,validation,0
+Greeley,Local tax incentives to support conservation,validation,0
+Greeley,Mixed use development/Low impact development,validation,0
+Greeley,Development rights related strategies,validation,0
+Greeley,Clustered development,validation,0
+Greeley,Density bonuses,validation,0
+Greeley,Conservation easement  ,validation,0
+Greeley,Land acquisition program for conservation,validation,0
+Greeley,Financial/economic incentive for conservation,validation,0
+Greeley,Conservation education/outreach projects/programs/activities,validation,1
+Greeley,Natural educational opportunities,validation,1
+Greeley,Waterfront recreational sites for education/educational facilities,validation,0
+Greeley,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Greeley,Coordination with local/state/federal agencies,validation,1
+Greeley,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Greeley,Integration with other plans/policies/programs,validation,1
+Greeley,Implementation timelines/trend,validation,1
+Greeley,Wetland-related task force/committee,validation,0
+Greeley,Maintenance and updating procedure and development continuum,validation,1
+Greeley,Plan effectiveness on conservation monitoring,validation,0
+Greeley,Implementation of conservation development techniques/practices,validation,0
+Hitchcock,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Hitchcock,Conservation areas mapped/described,validation,1
+Hitchcock,Environmental sensitive area described ,validation,1
+Hitchcock,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Hitchcock,Wetland definition  ,validation,0
+Hitchcock,Wetland maps and classifications,validation,0
+Hitchcock,Local wetland types/classification,validation,0
+Hitchcock,Conservation projects/programs,validation,1
+Hitchcock,Conservation prioritized in land use development,validation,1
+Hitchcock,Conservation lands identified on land use maps/plans,validation,1
+Hitchcock,Watershed management programs,validation,1
+Hitchcock,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Hitchcock,"Watershed development status (ISA, stormwater,)",validation,1
+Hitchcock,Goals for no net loss,validation,0
+Hitchcock,Goals for anti-degradation,validation,1
+Hitchcock,Goals for increasing wetland quantity and quality,validation,0
+Hitchcock,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+Hitchcock,Environmental sustainability/resilience goal,validation,1
+Hitchcock,Manmade/constructed wetland and wetland restoration,validation,0
+Hitchcock,Future land use and zoning regulations,validation,1
+Hitchcock,Zoning policies for specific areas for protection,validation,1
+Hitchcock,Low density design standard and building codes for conservation,validation,1
+Hitchcock,Regulate wetland disturbance and impact activities,validation,0
+Hitchcock,Prohibit development in environmental sensitive areas,validation,1
+Hitchcock,Subdivision regulations on open space and park land,validation,1
+Hitchcock,Policies on rural character maintaining,validation,1
+Hitchcock,Road and transportation standard adjustment for conservation,validation,1
+Hitchcock,Conservation design standards and techniques,validation,1
+Hitchcock,Water resource protection,validation,2
+Hitchcock,Environmental regulations for natural system protection,validation,1
+Hitchcock,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+Hitchcock,Regulations for buffer zone,validation,1
+Hitchcock,Wetland/water management and restoration,validation,0
+Hitchcock,Permitted use protecting natural system,validation,2
+Hitchcock,Stormwater management,validation,0
+Hitchcock,Water related BMPs,validation,0
+Hitchcock,Local tax incentives to support conservation,validation,0
+Hitchcock,Mixed use development/Low impact development,validation,0
+Hitchcock,Development rights related strategies,validation,0
+Hitchcock,Clustered development,validation,1
+Hitchcock,Density bonuses,validation,0
+Hitchcock,Conservation easement  ,validation,1
+Hitchcock,Land acquisition program for conservation,validation,0
+Hitchcock,Financial/economic incentive for conservation,validation,0
+Hitchcock,Conservation education/outreach projects/programs/activities,validation,0
+Hitchcock,Natural educational opportunities,validation,0
+Hitchcock,Waterfront recreational sites for education/educational facilities,validation,0
+Hitchcock,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Hitchcock,Coordination with local/state/federal agencies,validation,1
+Hitchcock,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Hitchcock,Integration with other plans/policies/programs,validation,1
+Hitchcock,Implementation timelines/trend,validation,0
+Hitchcock,Wetland-related task force/committee,validation,0
+Hitchcock,Maintenance and updating procedure and development continuum,validation,1
+Hitchcock,Plan effectiveness on conservation monitoring,validation,1
+Hitchcock,Implementation of conservation development techniques/practices,validation,0
+Howard,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Howard,Conservation areas mapped/described,validation,1
+Howard,Environmental sensitive area described ,validation,1
+Howard,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Howard,Wetland definition  ,validation,0
+Howard,Wetland maps and classifications,validation,0
+Howard,Local wetland types/classification,validation,0
+Howard,Conservation projects/programs,validation,1
+Howard,Conservation prioritized in land use development,validation,1
+Howard,Conservation lands identified on land use maps/plans,validation,1
+Howard,Watershed management programs,validation,1
+Howard,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Howard,"Watershed development status (ISA, stormwater,)",validation,1
+Howard,Goals for no net loss,validation,0
+Howard,Goals for anti-degradation,validation,1
+Howard,Goals for increasing wetland quantity and quality,validation,0
+Howard,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+Howard,Environmental sustainability/resilience goal,validation,1
+Howard,Manmade/constructed wetland and wetland restoration,validation,0
+Howard,Future land use and zoning regulations,validation,1
+Howard,Zoning policies for specific areas for protection,validation,1
+Howard,Low density design standard and building codes for conservation,validation,0
+Howard,Regulate wetland disturbance and impact activities,validation,0
+Howard,Prohibit development in environmental sensitive areas,validation,1
+Howard,Subdivision regulations on open space and park land,validation,1
+Howard,Policies on rural character maintaining,validation,1
+Howard,Road and transportation standard adjustment for conservation,validation,1
+Howard,Conservation design standards and techniques,validation,1
+Howard,Water resource protection,validation,1
+Howard,Environmental regulations for natural system protection,validation,1
+Howard,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+Howard,Regulations for buffer zone,validation,0
+Howard,Wetland/water management and restoration,validation,0
+Howard,Permitted use protecting natural system,validation,1
+Howard,Stormwater management,validation,0
+Howard,Water related BMPs,validation,0
+Howard,Local tax incentives to support conservation,validation,0
+Howard,Mixed use development/Low impact development,validation,0
+Howard,Development rights related strategies,validation,0
+Howard,Clustered development,validation,0
+Howard,Density bonuses,validation,0
+Howard,Conservation easement  ,validation,0
+Howard,Land acquisition program for conservation,validation,0
+Howard,Financial/economic incentive for conservation,validation,0
+Howard,Conservation education/outreach projects/programs/activities,validation,1
+Howard,Natural educational opportunities,validation,1
+Howard,Waterfront recreational sites for education/educational facilities,validation,1
+Howard,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Howard,Coordination with local/state/federal agencies,validation,1
+Howard,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Howard,Integration with other plans/policies/programs,validation,1
+Howard,Implementation timelines/trend,validation,0
+Howard,Wetland-related task force/committee,validation,0
+Howard,Maintenance and updating procedure and development continuum,validation,1
+Howard,Plan effectiveness on conservation monitoring,validation,1
+Howard,Implementation of conservation development techniques/practices,validation,0
+Kearney,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Kearney,Conservation areas mapped/described,validation,1
+Kearney,Environmental sensitive area described ,validation,1
+Kearney,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Kearney,Wetland definition  ,validation,0
+Kearney,Wetland maps and classifications,validation,0
+Kearney,Local wetland types/classification,validation,0
+Kearney,Conservation projects/programs,validation,1
+Kearney,Conservation prioritized in land use development,validation,0
+Kearney,Conservation lands identified on land use maps/plans,validation,0
+Kearney,Watershed management programs,validation,0
+Kearney,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Kearney,"Watershed development status (ISA, stormwater,)",validation,0
+Kearney,Goals for no net loss,validation,0
+Kearney,Goals for anti-degradation,validation,1
+Kearney,Goals for increasing wetland quantity and quality,validation,0
+Kearney,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+Kearney,Environmental sustainability/resilience goal,validation,1
+Kearney,Manmade/constructed wetland and wetland restoration,validation,0
+Kearney,Future land use and zoning regulations,validation,1
+Kearney,Zoning policies for specific areas for protection,validation,1
+Kearney,Low density design standard and building codes for conservation,validation,0
+Kearney,Regulate wetland disturbance and impact activities,validation,0
+Kearney,Prohibit development in environmental sensitive areas,validation,1
+Kearney,Subdivision regulations on open space and park land,validation,1
+Kearney,Policies on rural character maintaining,validation,1
+Kearney,Road and transportation standard adjustment for conservation,validation,1
+Kearney,Conservation design standards and techniques,validation,1
+Kearney,Water resource protection,validation,1
+Kearney,Environmental regulations for natural system protection,validation,1
+Kearney,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+Kearney,Regulations for buffer zone,validation,0
+Kearney,Wetland/water management and restoration,validation,0
+Kearney,Permitted use protecting natural system,validation,0
+Kearney,Stormwater management,validation,0
+Kearney,Water related BMPs,validation,0
+Kearney,Local tax incentives to support conservation,validation,0
+Kearney,Mixed use development/Low impact development,validation,0
+Kearney,Development rights related strategies,validation,0
+Kearney,Clustered development,validation,0
+Kearney,Density bonuses,validation,0
+Kearney,Conservation easement  ,validation,0
+Kearney,Land acquisition program for conservation,validation,0
+Kearney,Financial/economic incentive for conservation,validation,0
+Kearney,Conservation education/outreach projects/programs/activities,validation,0
+Kearney,Natural educational opportunities,validation,0
+Kearney,Waterfront recreational sites for education/educational facilities,validation,0
+Kearney,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Kearney,Coordination with local/state/federal agencies,validation,1
+Kearney,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Kearney,Integration with other plans/policies/programs,validation,1
+Kearney,Implementation timelines/trend,validation,0
+Kearney,Wetland-related task force/committee,validation,0
+Kearney,Maintenance and updating procedure and development continuum,validation,1
+Kearney,Plan effectiveness on conservation monitoring,validation,1
+Kearney,Implementation of conservation development techniques/practices,validation,0
+Kimball,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Kimball,Conservation areas mapped/described,validation,0
+Kimball,Environmental sensitive area described ,validation,0
+Kimball,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Kimball,Wetland definition  ,validation,0
+Kimball,Wetland maps and classifications,validation,0
+Kimball,Local wetland types/classification,validation,0
+Kimball,Conservation projects/programs,validation,0
+Kimball,Conservation prioritized in land use development,validation,0
+Kimball,Conservation lands identified on land use maps/plans,validation,0
+Kimball,Watershed management programs,validation,1
+Kimball,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Kimball,"Watershed development status (ISA, stormwater,)",validation,1
+Kimball,Goals for no net loss,validation,0
+Kimball,Goals for anti-degradation,validation,0
+Kimball,Goals for increasing wetland quantity and quality,validation,0
+Kimball,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,0
+Kimball,Environmental sustainability/resilience goal,validation,1
+Kimball,Manmade/constructed wetland and wetland restoration,validation,0
+Kimball,Future land use and zoning regulations,validation,1
+Kimball,Zoning policies for specific areas for protection,validation,1
+Kimball,Low density design standard and building codes for conservation,validation,0
+Kimball,Regulate wetland disturbance and impact activities,validation,0
+Kimball,Prohibit development in environmental sensitive areas,validation,1
+Kimball,Subdivision regulations on open space and park land,validation,1
+Kimball,Policies on rural character maintaining,validation,1
+Kimball,Road and transportation standard adjustment for conservation,validation,0
+Kimball,Conservation design standards and techniques,validation,0
+Kimball,Water resource protection,validation,1
+Kimball,Environmental regulations for natural system protection,validation,1
+Kimball,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+Kimball,Regulations for buffer zone,validation,1
+Kimball,Wetland/water management and restoration,validation,0
+Kimball,Permitted use protecting natural system,validation,1
+Kimball,Stormwater management,validation,1
+Kimball,Water related BMPs,validation,0
+Kimball,Local tax incentives to support conservation,validation,1
+Kimball,Mixed use development/Low impact development,validation,1
+Kimball,Development rights related strategies,validation,0
+Kimball,Clustered development,validation,0
+Kimball,Density bonuses,validation,0
+Kimball,Conservation easement  ,validation,0
+Kimball,Land acquisition program for conservation,validation,0
+Kimball,Financial/economic incentive for conservation,validation,0
+Kimball,Conservation education/outreach projects/programs/activities,validation,0
+Kimball,Natural educational opportunities,validation,0
+Kimball,Waterfront recreational sites for education/educational facilities,validation,0
+Kimball,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Kimball,Coordination with local/state/federal agencies,validation,1
+Kimball,Coordination with NGOs or environmental organizations/research institutes /participants,validation,0
+Kimball,Integration with other plans/policies/programs,validation,1
+Kimball,Implementation timelines/trend,validation,0
+Kimball,Wetland-related task force/committee,validation,0
+Kimball,Maintenance and updating procedure and development continuum,validation,0
+Kimball,Plan effectiveness on conservation monitoring,validation,1
+Kimball,Implementation of conservation development techniques/practices,validation,0
+Knox,"Natural or environmental resources described (open space, green space, river corridors)",validation,2
+Knox,Conservation areas mapped/described,validation,2
+Knox,Environmental sensitive area described ,validation,2
+Knox,Wetland current status and description (historical loss/gain/degradation/challenges),validation,2
+Knox,Wetland definition  ,validation,2
+Knox,Wetland maps and classifications,validation,0
+Knox,Local wetland types/classification,validation,2
+Knox,Conservation projects/programs,validation,2
+Knox,Conservation prioritized in land use development,validation,2
+Knox,Conservation lands identified on land use maps/plans,validation,0
+Knox,Watershed management programs,validation,1
+Knox,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Knox,"Watershed development status (ISA, stormwater,)",validation,1
+Knox,Goals for no net loss,validation,0
+Knox,Goals for anti-degradation,validation,0
+Knox,Goals for increasing wetland quantity and quality,validation,0
+Knox,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,2
+Knox,Environmental sustainability/resilience goal,validation,1
+Knox,Manmade/constructed wetland and wetland restoration,validation,2
+Knox,Future land use and zoning regulations,validation,2
+Knox,Zoning policies for specific areas for protection,validation,2
+Knox,Low density design standard and building codes for conservation,validation,1
+Knox,Regulate wetland disturbance and impact activities,validation,2
+Knox,Prohibit development in environmental sensitive areas,validation,2
+Knox,Subdivision regulations on open space and park land,validation,1
+Knox,Policies on rural character maintaining,validation,2
+Knox,Road and transportation standard adjustment for conservation,validation,1
+Knox,Conservation design standards and techniques,validation,2
+Knox,Water resource protection,validation,1
+Knox,Environmental regulations for natural system protection,validation,2
+Knox,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,2
+Knox,Regulations for buffer zone,validation,1
+Knox,Wetland/water management and restoration,validation,2
+Knox,Permitted use protecting natural system,validation,1
+Knox,Stormwater management,validation,0
+Knox,Water related BMPs,validation,1
+Knox,Local tax incentives to support conservation,validation,1
+Knox,Mixed use development/Low impact development,validation,0
+Knox,Development rights related strategies,validation,0
+Knox,Clustered development,validation,1
+Knox,Density bonuses,validation,1
+Knox,Conservation easement  ,validation,0
+Knox,Land acquisition program for conservation,validation,0
+Knox,Financial/economic incentive for conservation,validation,0
+Knox,Conservation education/outreach projects/programs/activities,validation,1
+Knox,Natural educational opportunities,validation,0
+Knox,Waterfront recreational sites for education/educational facilities,validation,0
+Knox,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Knox,Coordination with local/state/federal agencies,validation,2
+Knox,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Knox,Integration with other plans/policies/programs,validation,2
+Knox,Implementation timelines/trend,validation,0
+Knox,Wetland-related task force/committee,validation,0
+Knox,Maintenance and updating procedure and development continuum,validation,1
+Knox,Plan effectiveness on conservation monitoring,validation,1
+Knox,Implementation of conservation development techniques/practices,validation,0
+Lincoln,"Natural or environmental resources described (open space, green space, river corridors)",validation,2
+Lincoln,Conservation areas mapped/described,validation,2
+Lincoln,Environmental sensitive area described ,validation,2
+Lincoln,Wetland current status and description (historical loss/gain/degradation/challenges),validation,2
+Lincoln,Wetland definition  ,validation,2
+Lincoln,Wetland maps and classifications,validation,2
+Lincoln,Local wetland types/classification,validation,2
+Lincoln,Conservation projects/programs,validation,2
+Lincoln,Conservation prioritized in land use development,validation,2
+Lincoln,Conservation lands identified on land use maps/plans,validation,2
+Lincoln,Watershed management programs,validation,2
+Lincoln,"Water resources related description (e.g. quantity and quality, pollution)",validation,2
+Lincoln,"Watershed development status (ISA, stormwater,)",validation,2
+Lincoln,Goals for no net loss,validation,0
+Lincoln,Goals for anti-degradation,validation,2
+Lincoln,Goals for increasing wetland quantity and quality,validation,1
+Lincoln,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,2
+Lincoln,Environmental sustainability/resilience goal,validation,1
+Lincoln,Manmade/constructed wetland and wetland restoration,validation,2
+Lincoln,Future land use and zoning regulations,validation,2
+Lincoln,Zoning policies for specific areas for protection,validation,2
+Lincoln,Low density design standard and building codes for conservation,validation,1
+Lincoln,Regulate wetland disturbance and impact activities,validation,2
+Lincoln,Prohibit development in environmental sensitive areas,validation,2
+Lincoln,Subdivision regulations on open space and park land,validation,1
+Lincoln,Policies on rural character maintaining,validation,1
+Lincoln,Road and transportation standard adjustment for conservation,validation,1
+Lincoln,Conservation design standards and techniques,validation,1
+Lincoln,Water resource protection,validation,1
+Lincoln,Environmental regulations for natural system protection,validation,1
+Lincoln,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,2
+Lincoln,Regulations for buffer zone,validation,1
+Lincoln,Wetland/water management and restoration,validation,2
+Lincoln,Permitted use protecting natural system,validation,1
+Lincoln,Stormwater management,validation,2
+Lincoln,Water related BMPs,validation,0
+Lincoln,Local tax incentives to support conservation,validation,2
+Lincoln,Mixed use development/Low impact development,validation,0
+Lincoln,Development rights related strategies,validation,0
+Lincoln,Clustered development,validation,1
+Lincoln,Density bonuses,validation,0
+Lincoln,Conservation easement  ,validation,1
+Lincoln,Land acquisition program for conservation,validation,2
+Lincoln,Financial/economic incentive for conservation,validation,2
+Lincoln,Conservation education/outreach projects/programs/activities,validation,2
+Lincoln,Natural educational opportunities,validation,0
+Lincoln,Waterfront recreational sites for education/educational facilities,validation,0
+Lincoln,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,2
+Lincoln,Coordination with local/state/federal agencies,validation,1
+Lincoln,Coordination with NGOs or environmental organizations/research institutes /participants,validation,2
+Lincoln,Integration with other plans/policies/programs,validation,2
+Lincoln,Implementation timelines/trend,validation,1
+Lincoln,Wetland-related task force/committee,validation,1
+Lincoln,Maintenance and updating procedure and development continuum,validation,1
+Lincoln,Plan effectiveness on conservation monitoring,validation,1
+Lincoln,Implementation of conservation development techniques/practices,validation,1
+Nance,"Natural or environmental resources described (open space, green space, river corridors)",validation,2
+Nance,Conservation areas mapped/described,validation,2
+Nance,Environmental sensitive area described ,validation,1
+Nance,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Nance,Wetland definition  ,validation,0
+Nance,Wetland maps and classifications,validation,0
+Nance,Local wetland types/classification,validation,0
+Nance,Conservation projects/programs,validation,2
+Nance,Conservation prioritized in land use development,validation,1
+Nance,Conservation lands identified on land use maps/plans,validation,1
+Nance,Watershed management programs,validation,0
+Nance,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Nance,"Watershed development status (ISA, stormwater,)",validation,1
+Nance,Goals for no net loss,validation,0
+Nance,Goals for anti-degradation,validation,1
+Nance,Goals for increasing wetland quantity and quality,validation,0
+Nance,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+Nance,Environmental sustainability/resilience goal,validation,0
+Nance,Manmade/constructed wetland and wetland restoration,validation,0
+Nance,Future land use and zoning regulations,validation,1
+Nance,Zoning policies for specific areas for protection,validation,1
+Nance,Low density design standard and building codes for conservation,validation,0
+Nance,Regulate wetland disturbance and impact activities,validation,0
+Nance,Prohibit development in environmental sensitive areas,validation,2
+Nance,Subdivision regulations on open space and park land,validation,1
+Nance,Policies on rural character maintaining,validation,1
+Nance,Road and transportation standard adjustment for conservation,validation,2
+Nance,Conservation design standards and techniques,validation,0
+Nance,Water resource protection,validation,1
+Nance,Environmental regulations for natural system protection,validation,1
+Nance,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+Nance,Regulations for buffer zone,validation,0
+Nance,Wetland/water management and restoration,validation,0
+Nance,Permitted use protecting natural system,validation,1
+Nance,Stormwater management,validation,0
+Nance,Water related BMPs,validation,0
+Nance,Local tax incentives to support conservation,validation,0
+Nance,Mixed use development/Low impact development,validation,0
+Nance,Development rights related strategies,validation,0
+Nance,Clustered development,validation,0
+Nance,Density bonuses,validation,0
+Nance,Conservation easement  ,validation,0
+Nance,Land acquisition program for conservation,validation,1
+Nance,Financial/economic incentive for conservation,validation,1
+Nance,Conservation education/outreach projects/programs/activities,validation,0
+Nance,Natural educational opportunities,validation,0
+Nance,Waterfront recreational sites for education/educational facilities,validation,1
+Nance,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Nance,Coordination with local/state/federal agencies,validation,1
+Nance,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Nance,Integration with other plans/policies/programs,validation,1
+Nance,Implementation timelines/trend,validation,0
+Nance,Wetland-related task force/committee,validation,0
+Nance,Maintenance and updating procedure and development continuum,validation,1
+Nance,Plan effectiveness on conservation monitoring,validation,0
+Nance,Implementation of conservation development techniques/practices,validation,0
+Perkins,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Perkins,Conservation areas mapped/described,validation,2
+Perkins,Environmental sensitive area described ,validation,0
+Perkins,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Perkins,Wetland definition  ,validation,0
+Perkins,Wetland maps and classifications,validation,0
+Perkins,Local wetland types/classification,validation,0
+Perkins,Conservation projects/programs,validation,1
+Perkins,Conservation prioritized in land use development,validation,1
+Perkins,Conservation lands identified on land use maps/plans,validation,2
+Perkins,Watershed management programs,validation,0
+Perkins,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Perkins,"Watershed development status (ISA, stormwater,)",validation,1
+Perkins,Goals for no net loss,validation,0
+Perkins,Goals for anti-degradation,validation,1
+Perkins,Goals for increasing wetland quantity and quality,validation,0
+Perkins,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,2
+Perkins,Environmental sustainability/resilience goal,validation,1
+Perkins,Manmade/constructed wetland and wetland restoration,validation,0
+Perkins,Future land use and zoning regulations,validation,1
+Perkins,Zoning policies for specific areas for protection,validation,1
+Perkins,Low density design standard and building codes for conservation,validation,0
+Perkins,Regulate wetland disturbance and impact activities,validation,0
+Perkins,Prohibit development in environmental sensitive areas,validation,1
+Perkins,Subdivision regulations on open space and park land,validation,0
+Perkins,Policies on rural character maintaining,validation,1
+Perkins,Road and transportation standard adjustment for conservation,validation,1
+Perkins,Conservation design standards and techniques,validation,0
+Perkins,Water resource protection,validation,1
+Perkins,Environmental regulations for natural system protection,validation,2
+Perkins,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,0
+Perkins,Regulations for buffer zone,validation,0
+Perkins,Wetland/water management and restoration,validation,0
+Perkins,Permitted use protecting natural system,validation,1
+Perkins,Stormwater management,validation,0
+Perkins,Water related BMPs,validation,0
+Perkins,Local tax incentives to support conservation,validation,0
+Perkins,Mixed use development/Low impact development,validation,0
+Perkins,Development rights related strategies,validation,0
+Perkins,Clustered development,validation,0
+Perkins,Density bonuses,validation,0
+Perkins,Conservation easement  ,validation,0
+Perkins,Land acquisition program for conservation,validation,0
+Perkins,Financial/economic incentive for conservation,validation,0
+Perkins,Conservation education/outreach projects/programs/activities,validation,0
+Perkins,Natural educational opportunities,validation,0
+Perkins,Waterfront recreational sites for education/educational facilities,validation,0
+Perkins,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Perkins,Coordination with local/state/federal agencies,validation,0
+Perkins,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Perkins,Integration with other plans/policies/programs,validation,1
+Perkins,Implementation timelines/trend,validation,0
+Perkins,Wetland-related task force/committee,validation,0
+Perkins,Maintenance and updating procedure and development continuum,validation,1
+Perkins,Plan effectiveness on conservation monitoring,validation,1
+Perkins,Implementation of conservation development techniques/practices,validation,0
+Red Willow,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Red Willow,Conservation areas mapped/described,validation,0
+Red Willow,Environmental sensitive area described ,validation,0
+Red Willow,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Red Willow,Wetland definition  ,validation,0
+Red Willow,Wetland maps and classifications,validation,0
+Red Willow,Local wetland types/classification,validation,0
+Red Willow,Conservation projects/programs,validation,1
+Red Willow,Conservation prioritized in land use development,validation,0
+Red Willow,Conservation lands identified on land use maps/plans,validation,0
+Red Willow,Watershed management programs,validation,0
+Red Willow,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Red Willow,"Watershed development status (ISA, stormwater,)",validation,0
+Red Willow,Goals for no net loss,validation,0
+Red Willow,Goals for anti-degradation,validation,1
+Red Willow,Goals for increasing wetland quantity and quality,validation,0
+Red Willow,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,2
+Red Willow,Environmental sustainability/resilience goal,validation,2
+Red Willow,Manmade/constructed wetland and wetland restoration,validation,0
+Red Willow,Future land use and zoning regulations,validation,1
+Red Willow,Zoning policies for specific areas for protection,validation,1
+Red Willow,Low density design standard and building codes for conservation,validation,0
+Red Willow,Regulate wetland disturbance and impact activities,validation,0
+Red Willow,Prohibit development in environmental sensitive areas,validation,2
+Red Willow,Subdivision regulations on open space and park land,validation,2
+Red Willow,Policies on rural character maintaining,validation,1
+Red Willow,Road and transportation standard adjustment for conservation,validation,1
+Red Willow,Conservation design standards and techniques,validation,0
+Red Willow,Water resource protection,validation,2
+Red Willow,Environmental regulations for natural system protection,validation,1
+Red Willow,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,2
+Red Willow,Regulations for buffer zone,validation,1
+Red Willow,Wetland/water management and restoration,validation,0
+Red Willow,Permitted use protecting natural system,validation,1
+Red Willow,Stormwater management,validation,0
+Red Willow,Water related BMPs,validation,0
+Red Willow,Local tax incentives to support conservation,validation,0
+Red Willow,Mixed use development/Low impact development,validation,0
+Red Willow,Development rights related strategies,validation,0
+Red Willow,Clustered development,validation,0
+Red Willow,Density bonuses,validation,0
+Red Willow,Conservation easement  ,validation,1
+Red Willow,Land acquisition program for conservation,validation,0
+Red Willow,Financial/economic incentive for conservation,validation,0
+Red Willow,Conservation education/outreach projects/programs/activities,validation,0
+Red Willow,Natural educational opportunities,validation,0
+Red Willow,Waterfront recreational sites for education/educational facilities,validation,1
+Red Willow,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Red Willow,Coordination with local/state/federal agencies,validation,1
+Red Willow,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Red Willow,Integration with other plans/policies/programs,validation,1
+Red Willow,Implementation timelines/trend,validation,1
+Red Willow,Wetland-related task force/committee,validation,0
+Red Willow,Maintenance and updating procedure and development continuum,validation,1
+Red Willow,Plan effectiveness on conservation monitoring,validation,1
+Red Willow,Implementation of conservation development techniques/practices,validation,0
+Seward,"Natural or environmental resources described (open space, green space, river corridors)",validation,2
+Seward,Conservation areas mapped/described,validation,2
+Seward,Environmental sensitive area described ,validation,2
+Seward,Wetland current status and description (historical loss/gain/degradation/challenges),validation,2
+Seward,Wetland definition  ,validation,2
+Seward,Wetland maps and classifications,validation,2
+Seward,Local wetland types/classification,validation,2
+Seward,Conservation projects/programs,validation,2
+Seward,Conservation prioritized in land use development,validation,2
+Seward,Conservation lands identified on land use maps/plans,validation,1
+Seward,Watershed management programs,validation,0
+Seward,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Seward,"Watershed development status (ISA, stormwater,)",validation,2
+Seward,Goals for no net loss,validation,0
+Seward,Goals for anti-degradation,validation,2
+Seward,Goals for increasing wetland quantity and quality,validation,2
+Seward,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,2
+Seward,Environmental sustainability/resilience goal,validation,1
+Seward,Manmade/constructed wetland and wetland restoration,validation,2
+Seward,Future land use and zoning regulations,validation,1
+Seward,Zoning policies for specific areas for protection,validation,1
+Seward,Low density design standard and building codes for conservation,validation,1
+Seward,Regulate wetland disturbance and impact activities,validation,2
+Seward,Prohibit development in environmental sensitive areas,validation,2
+Seward,Subdivision regulations on open space and park land,validation,1
+Seward,Policies on rural character maintaining,validation,1
+Seward,Road and transportation standard adjustment for conservation,validation,2
+Seward,Conservation design standards and techniques,validation,1
+Seward,Water resource protection,validation,2
+Seward,Environmental regulations for natural system protection,validation,2
+Seward,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,2
+Seward,Regulations for buffer zone,validation,1
+Seward,Wetland/water management and restoration,validation,2
+Seward,Permitted use protecting natural system,validation,2
+Seward,Stormwater management,validation,2
+Seward,Water related BMPs,validation,0
+Seward,Local tax incentives to support conservation,validation,2
+Seward,Mixed use development/Low impact development,validation,0
+Seward,Development rights related strategies,validation,0
+Seward,Clustered development,validation,1
+Seward,Density bonuses,validation,0
+Seward,Conservation easement  ,validation,1
+Seward,Land acquisition program for conservation,validation,2
+Seward,Financial/economic incentive for conservation,validation,2
+Seward,Conservation education/outreach projects/programs/activities,validation,2
+Seward,Natural educational opportunities,validation,0
+Seward,Waterfront recreational sites for education/educational facilities,validation,0
+Seward,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,2
+Seward,Coordination with local/state/federal agencies,validation,1
+Seward,Coordination with NGOs or environmental organizations/research institutes /participants,validation,2
+Seward,Integration with other plans/policies/programs,validation,2
+Seward,Implementation timelines/trend,validation,0
+Seward,Wetland-related task force/committee,validation,0
+Seward,Maintenance and updating procedure and development continuum,validation,1
+Seward,Plan effectiveness on conservation monitoring,validation,1
+Seward,Implementation of conservation development techniques/practices,validation,0
+Valley,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Valley,Conservation areas mapped/described,validation,0
+Valley,Environmental sensitive area described ,validation,0
+Valley,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Valley,Wetland definition  ,validation,0
+Valley,Wetland maps and classifications,validation,0
+Valley,Local wetland types/classification,validation,0
+Valley,Conservation projects/programs,validation,0
+Valley,Conservation prioritized in land use development,validation,0
+Valley,Conservation lands identified on land use maps/plans,validation,0
+Valley,Watershed management programs,validation,0
+Valley,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Valley,"Watershed development status (ISA, stormwater,)",validation,0
+Valley,Goals for no net loss,validation,0
+Valley,Goals for anti-degradation,validation,0
+Valley,Goals for increasing wetland quantity and quality,validation,0
+Valley,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+Valley,Environmental sustainability/resilience goal,validation,0
+Valley,Manmade/constructed wetland and wetland restoration,validation,0
+Valley,Future land use and zoning regulations,validation,1
+Valley,Zoning policies for specific areas for protection,validation,1
+Valley,Low density design standard and building codes for conservation,validation,0
+Valley,Regulate wetland disturbance and impact activities,validation,1
+Valley,Prohibit development in environmental sensitive areas,validation,0
+Valley,Subdivision regulations on open space and park land,validation,0
+Valley,Policies on rural character maintaining,validation,1
+Valley,Road and transportation standard adjustment for conservation,validation,1
+Valley,Conservation design standards and techniques,validation,0
+Valley,Water resource protection,validation,1
+Valley,Environmental regulations for natural system protection,validation,1
+Valley,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,0
+Valley,Regulations for buffer zone,validation,0
+Valley,Wetland/water management and restoration,validation,0
+Valley,Permitted use protecting natural system,validation,1
+Valley,Stormwater management,validation,0
+Valley,Water related BMPs,validation,0
+Valley,Local tax incentives to support conservation,validation,0
+Valley,Mixed use development/Low impact development,validation,0
+Valley,Development rights related strategies,validation,0
+Valley,Clustered development,validation,0
+Valley,Density bonuses,validation,0
+Valley,Conservation easement  ,validation,0
+Valley,Land acquisition program for conservation,validation,0
+Valley,Financial/economic incentive for conservation,validation,0
+Valley,Conservation education/outreach projects/programs/activities,validation,0
+Valley,Natural educational opportunities,validation,0
+Valley,Waterfront recreational sites for education/educational facilities,validation,0
+Valley,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Valley,Coordination with local/state/federal agencies,validation,1
+Valley,Coordination with NGOs or environmental organizations/research institutes /participants,validation,0
+Valley,Integration with other plans/policies/programs,validation,1
+Valley,Implementation timelines/trend,validation,0
+Valley,Wetland-related task force/committee,validation,0
+Valley,Maintenance and updating procedure and development continuum,validation,0
+Valley,Plan effectiveness on conservation monitoring,validation,0
+Valley,Implementation of conservation development techniques/practices,validation,0
+Wayne,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+Wayne,Conservation areas mapped/described,validation,1
+Wayne,Environmental sensitive area described ,validation,0
+Wayne,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+Wayne,Wetland definition  ,validation,0
+Wayne,Wetland maps and classifications,validation,0
+Wayne,Local wetland types/classification,validation,0
+Wayne,Conservation projects/programs,validation,1
+Wayne,Conservation prioritized in land use development,validation,1
+Wayne,Conservation lands identified on land use maps/plans,validation,0
+Wayne,Watershed management programs,validation,1
+Wayne,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+Wayne,"Watershed development status (ISA, stormwater,)",validation,1
+Wayne,Goals for no net loss,validation,0
+Wayne,Goals for anti-degradation,validation,0
+Wayne,Goals for increasing wetland quantity and quality,validation,1
+Wayne,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,0
+Wayne,Environmental sustainability/resilience goal,validation,1
+Wayne,Manmade/constructed wetland and wetland restoration,validation,0
+Wayne,Future land use and zoning regulations,validation,1
+Wayne,Zoning policies for specific areas for protection,validation,0
+Wayne,Low density design standard and building codes for conservation,validation,0
+Wayne,Regulate wetland disturbance and impact activities,validation,1
+Wayne,Prohibit development in environmental sensitive areas,validation,1
+Wayne,Subdivision regulations on open space and park land,validation,1
+Wayne,Policies on rural character maintaining,validation,1
+Wayne,Road and transportation standard adjustment for conservation,validation,0
+Wayne,Conservation design standards and techniques,validation,1
+Wayne,Water resource protection,validation,1
+Wayne,Environmental regulations for natural system protection,validation,1
+Wayne,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,0
+Wayne,Regulations for buffer zone,validation,0
+Wayne,Wetland/water management and restoration,validation,0
+Wayne,Permitted use protecting natural system,validation,0
+Wayne,Stormwater management,validation,1
+Wayne,Water related BMPs,validation,1
+Wayne,Local tax incentives to support conservation,validation,0
+Wayne,Mixed use development/Low impact development,validation,1
+Wayne,Development rights related strategies,validation,0
+Wayne,Clustered development,validation,0
+Wayne,Density bonuses,validation,0
+Wayne,Conservation easement  ,validation,0
+Wayne,Land acquisition program for conservation,validation,0
+Wayne,Financial/economic incentive for conservation,validation,1
+Wayne,Conservation education/outreach projects/programs/activities,validation,1
+Wayne,Natural educational opportunities,validation,1
+Wayne,Waterfront recreational sites for education/educational facilities,validation,0
+Wayne,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+Wayne,Coordination with local/state/federal agencies,validation,1
+Wayne,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+Wayne,Integration with other plans/policies/programs,validation,1
+Wayne,Implementation timelines/trend,validation,0
+Wayne,Wetland-related task force/committee,validation,0
+Wayne,Maintenance and updating procedure and development continuum,validation,1
+Wayne,Plan effectiveness on conservation monitoring,validation,0
+Wayne,Implementation of conservation development techniques/practices,validation,0
+York,"Natural or environmental resources described (open space, green space, river corridors)",validation,1
+York,Conservation areas mapped/described,validation,0
+York,Environmental sensitive area described ,validation,0
+York,Wetland current status and description (historical loss/gain/degradation/challenges),validation,0
+York,Wetland definition  ,validation,0
+York,Wetland maps and classifications,validation,0
+York,Local wetland types/classification,validation,0
+York,Conservation projects/programs,validation,0
+York,Conservation prioritized in land use development,validation,0
+York,Conservation lands identified on land use maps/plans,validation,0
+York,Watershed management programs,validation,0
+York,"Water resources related description (e.g. quantity and quality, pollution)",validation,1
+York,"Watershed development status (ISA, stormwater,)",validation,0
+York,Goals for no net loss,validation,0
+York,Goals for anti-degradation,validation,0
+York,Goals for increasing wetland quantity and quality,validation,0
+York,"Goals for ecosystem/biodiversity protection (Wildlife, bird, crane)",validation,1
+York,Environmental sustainability/resilience goal,validation,1
+York,Manmade/constructed wetland and wetland restoration,validation,0
+York,Future land use and zoning regulations,validation,1
+York,Zoning policies for specific areas for protection,validation,1
+York,Low density design standard and building codes for conservation,validation,0
+York,Regulate wetland disturbance and impact activities,validation,1
+York,Prohibit development in environmental sensitive areas,validation,0
+York,Subdivision regulations on open space and park land,validation,1
+York,Policies on rural character maintaining,validation,1
+York,Road and transportation standard adjustment for conservation,validation,1
+York,Conservation design standards and techniques,validation,0
+York,Water resource protection,validation,1
+York,Environmental regulations for natural system protection,validation,1
+York,"Regulations on ecosystem and biodiversity conservation (Wildlife, bird, crane)",validation,1
+York,Regulations for buffer zone,validation,0
+York,Wetland/water management and restoration,validation,0
+York,Permitted use protecting natural system,validation,0
+York,Stormwater management,validation,0
+York,Water related BMPs,validation,0
+York,Local tax incentives to support conservation,validation,0
+York,Mixed use development/Low impact development,validation,0
+York,Development rights related strategies,validation,0
+York,Clustered development,validation,0
+York,Density bonuses,validation,0
+York,Conservation easement  ,validation,0
+York,Land acquisition program for conservation,validation,0
+York,Financial/economic incentive for conservation,validation,1
+York,Conservation education/outreach projects/programs/activities,validation,0
+York,Natural educational opportunities,validation,0
+York,Waterfront recreational sites for education/educational facilities,validation,0
+York,Link local approvals with 404 permit and/or 401 certifications/swampbuster/title 117,validation,0
+York,Coordination with local/state/federal agencies,validation,1
+York,Coordination with NGOs or environmental organizations/research institutes /participants,validation,1
+York,Integration with other plans/policies/programs,validation,1
+York,Implementation timelines/trend,validation,0
+York,Wetland-related task force/committee,validation,0
+York,Maintenance and updating procedure and development continuum,validation,0
+York,Plan effectiveness on conservation monitoring,validation,0
+York,Implementation of conservation development techniques/practices,validation,0

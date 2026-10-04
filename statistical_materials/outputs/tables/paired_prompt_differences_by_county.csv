@@ -1,0 +1,43 @@
+model_label,county,optimized_condition,basic_condition,optimized_agreement,basic_agreement,difference_percentage_points
+GPT-4o,Antelope,gpt4o_final,gpt4o_basic,55.357143,47.272727,8.084416
+GPT-4o,Buffalo,gpt4o_final,gpt4o_basic,75.0,48.214286,26.785714
+GPT-4o,Butler,gpt4o_final,gpt4o_basic,64.285714,57.142857,7.142857
+GPT-4o,Dakota,gpt4o_final,gpt4o_basic,64.285714,44.642857,19.642857
+GPT-4o,Dawes,gpt4o_final,gpt4o_basic,69.642857,62.5,7.142857
+GPT-4o,Furnas,gpt4o_final,gpt4o_basic,51.785714,42.857143,8.928571
+GPT-4o,Greeley,gpt4o_final,gpt4o_basic,62.5,42.857143,19.642857
+GPT-4o,Hitchcock,gpt4o_final,gpt4o_basic,60.714286,56.363636,4.350649
+GPT-4o,Howard,gpt4o_final,gpt4o_basic,65.454545,42.592593,22.861953
+GPT-4o,Kearney,gpt4o_final,gpt4o_basic,64.285714,46.428571,17.857143
+GPT-4o,Kimball,gpt4o_final,gpt4o_basic,73.214286,50.0,23.214286
+GPT-4o,Knox,gpt4o_final,gpt4o_basic,57.142857,43.636364,13.506494
+GPT-4o,Lincoln,gpt4o_final,gpt4o_basic,57.142857,44.642857,12.5
+GPT-4o,Nance,gpt4o_final,gpt4o_basic,64.285714,42.307692,21.978022
+GPT-4o,Perkins,gpt4o_final,gpt4o_basic,50.0,46.428571,3.571429
+GPT-4o,Red Willow,gpt4o_final,gpt4o_basic,60.714286,35.714286,25.0
+GPT-4o,Seward,gpt4o_final,gpt4o_basic,48.214286,41.071429,7.142857
+GPT-4o,Valley,gpt4o_final,gpt4o_basic,71.428571,62.5,8.928571
+GPT-4o,Wayne,gpt4o_final,gpt4o_basic,58.928571,35.849057,23.079515
+GPT-4o,York,gpt4o_final,gpt4o_basic,69.642857,60.714286,8.928571
+GPT-4o,MEAN,gpt4o_final,gpt4o_basic,,,14.514481
+GPT-4o mini,Antelope,gpt4o_mini_final,gpt4o_mini_basic,51.785714,42.857143,8.928571
+GPT-4o mini,Buffalo,gpt4o_mini_final,gpt4o_mini_basic,51.785714,39.285714,12.5
+GPT-4o mini,Butler,gpt4o_mini_final,gpt4o_mini_basic,69.642857,35.714286,33.928571
+GPT-4o mini,Dakota,gpt4o_mini_final,gpt4o_mini_basic,62.5,21.818182,40.681818
+GPT-4o mini,Dawes,gpt4o_mini_final,gpt4o_mini_basic,67.857143,44.642857,23.214286
+GPT-4o mini,Furnas,gpt4o_mini_final,gpt4o_mini_basic,53.571429,41.071429,12.5
+GPT-4o mini,Greeley,gpt4o_mini_final,gpt4o_mini_basic,64.285714,33.928571,30.357143
+GPT-4o mini,Hitchcock,gpt4o_mini_final,gpt4o_mini_basic,62.5,51.785714,10.714286
+GPT-4o mini,Howard,gpt4o_mini_final,gpt4o_mini_basic,66.071429,62.5,3.571429
+GPT-4o mini,Kearney,gpt4o_mini_final,gpt4o_mini_basic,53.571429,34.545455,19.025974
+GPT-4o mini,Kimball,gpt4o_mini_final,gpt4o_mini_basic,75.0,50.0,25.0
+GPT-4o mini,Knox,gpt4o_mini_final,gpt4o_mini_basic,41.071429,39.285714,1.785714
+GPT-4o mini,Lincoln,gpt4o_mini_final,gpt4o_mini_basic,55.357143,50.0,5.357143
+GPT-4o mini,Nance,gpt4o_mini_final,gpt4o_mini_basic,64.285714,46.428571,17.857143
+GPT-4o mini,Perkins,gpt4o_mini_final,gpt4o_mini_basic,58.928571,32.142857,26.785714
+GPT-4o mini,Red Willow,gpt4o_mini_final,gpt4o_mini_basic,37.5,28.571429,8.928571
+GPT-4o mini,Seward,gpt4o_mini_final,gpt4o_mini_basic,42.857143,48.214286,-5.357143
+GPT-4o mini,Valley,gpt4o_mini_final,gpt4o_mini_basic,80.357143,58.928571,21.428571
+GPT-4o mini,Wayne,gpt4o_mini_final,gpt4o_mini_basic,46.428571,50.0,-3.571429
+GPT-4o mini,York,gpt4o_mini_final,gpt4o_mini_basic,69.642857,55.357143,14.285714
+GPT-4o mini,MEAN,gpt4o_mini_final,gpt4o_mini_basic,,,15.396104
